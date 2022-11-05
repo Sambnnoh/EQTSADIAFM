@@ -1,0 +1,3143 @@
+# Translation of WordPress - 6.0.x in Arabic
+# This file is distributed under the same license as the WordPress - 6.0.x package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-04 13:46:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ar\n"
+"Project-Id-Version: WordPress - 6.0.x\n"
+
+#: wp-includes/js/dist/edit-site.js:13011 wp-admin/edit-tag-form.php:303
+#: wp-admin/includes/class-wp-links-list-table.php:88
+#: wp-admin/includes/class-wp-links-list-table.php:344
+#: wp-admin/includes/class-wp-plugins-list-table.php:614
+#: wp-admin/includes/class-wp-plugins-list-table.php:825
+#: wp-admin/includes/class-wp-plugins-list-table.php:886
+#: wp-admin/includes/class-wp-terms-list-table.php:171
+#: wp-admin/includes/class-wp-terms-list-table.php:496
+#: wp-admin/includes/class-wp-themes-list-table.php:233
+#: wp-admin/includes/class-wp-users-list-table.php:282
+#: wp-admin/includes/class-wp-users-list-table.php:478
+#: wp-admin/includes/media.php:1721 wp-admin/includes/meta-boxes.php:1082
+#: wp-admin/includes/template.php:651 wp-admin/includes/theme.php:1039
+#: wp-admin/includes/widgets.php:295 wp-admin/themes.php:651
+#: wp-admin/themes.php:1162 wp-admin/widgets-form.php:335
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:290
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:729
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:479
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:633
+#: wp-admin/includes/class-wp-ms-users-list-table.php:115
+#: wp-admin/includes/class-wp-ms-users-list-table.php:527
+msgid "Delete"
+msgstr "حذف"
+
+#: wp-includes/js/dist/edit-site.js:12995
+#: wp-includes/js/dist/edit-site.js:13300 wp-admin/includes/media.php:2568
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:370
+msgid "Actions"
+msgstr "الإجراءات"
+
+#: wp-includes/js/dist/editor.js:8265 wp-admin/includes/meta-boxes.php:179
+#: wp-admin/includes/meta-boxes.php:196 wp-admin/js/post.js:905
+msgid "Public"
+msgstr "عام"
+
+#: wp-includes/js/dist/block-library.js:44245
+#: wp-admin/includes/class-plugin-installer-skin.php:217
+#: wp-admin/includes/class-theme-installer-skin.php:240
+#: wp-admin/includes/class-wp-debug-data.php:69
+#: wp-admin/includes/class-wp-debug-data.php:1131
+#: wp-admin/includes/class-wp-debug-data.php:1226
+msgid "Version"
+msgstr "النسخة"
+
+#: wp-includes/js/dist/components.js:54567
+#: wp-admin/includes/ajax-actions.php:2202
+msgid "Type"
+msgstr "نوع"
+
+#: wp-includes/js/dist/editor.js:7127 wp-admin/includes/ajax-actions.php:2202
+#: wp-admin/includes/class-wp-posts-list-table.php:1915
+#: wp-admin/includes/class-wp-privacy-requests-table.php:44
+msgid "Status"
+msgstr "الحالة"
+
+#: wp-includes/js/dist/components.js:66931
+#: wp-admin/includes/edit-tag-messages.php:14
+msgid "Item added."
+msgstr "تمّ إضافة العنصر."
+
+#: wp-includes/js/dist/editor.js:6058
+#: wp-admin/includes/class-wp-posts-list-table.php:1804
+#: wp-admin/includes/media.php:1404 wp-admin/includes/media.php:2567
+#: wp-admin/includes/meta-boxes.php:1011
+msgid "Order"
+msgstr "ترتيب"
+
+#: wp-includes/js/dist/editor.js:6693 wp-admin/includes/meta-boxes.php:802
+msgid "Allow comments"
+msgstr "السماح بالتعليقات"
+
+#: wp-includes/js/dist/editor.js:7949 wp-admin/includes/meta-boxes.php:365
+#: wp-admin/includes/meta-boxes.php:366
+msgid "Submit for Review"
+msgstr "إرسال للمراجعة"
+
+#: wp-includes/js/dist/editor.js:9631 wp-admin/includes/meta-boxes.php:164
+msgid "Visibility:"
+msgstr "الظهور:"
+
+#: wp-includes/js/dist/editor.js:10884 wp-admin/edit-form-advanced.php:519
+#: wp-admin/edit-form-blocks.php:194
+msgid "Add title"
+msgstr "إضافة عنوان"
+
+#: wp-includes/js/dist/edit-post.js:4895 wp-includes/js/dist/edit-post.js:7110
+#: wp-admin/includes/meta-boxes.php:1566 wp-admin/menu.php:363
+msgid "Discussion"
+msgstr "مناقشة"
+
+#: wp-includes/js/dist/blocks.js:5562 wp-admin/options-media.php:104
+msgid "Embeds"
+msgstr "تضمينات"
+
+#: wp-includes/blocks/block/block.json
+msgctxt "block description"
+msgid "Create and save content to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "قم بإنشاء محتوى واحفظه لإعادة استخدامه عبر موقعك. حدّث المكوّن، وسيتم تطبيق التغييرات في كل مكان استخدُم فيه المكوّن."
+
+#: wp-includes/blocks/freeform/block.json
+msgctxt "block title"
+msgid "Classic"
+msgstr "تقليدي"
+
+#: wp-includes/blocks/embed/block.json
+msgctxt "block description"
+msgid "Add a block that displays content pulled from other sites, like Twitter or YouTube."
+msgstr "إضافة مكوّن يعرض محتوى تم سحبه من مواقع أخرى، مثل Twitter أو YouTube."
+
+#: wp-includes/blocks/heading/block.json
+msgctxt "block description"
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "تقديم أقسام جديدة وتنظيم المحتوى لمساعدة الزوّار (ومحركات البحث) لفهم بنية المحتوى الخاص بك."
+
+#: wp-includes/blocks/quote/block.json
+msgctxt "block description"
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "منح النصّ المقتبس تركيزاً بصرياً. \"في اقتباسات الآخرين، نحن نذكّر أنفسنا.\" — خوليو كورتاثر"
+
+#: wp-includes/js/dist/block-library.js:44737
+#: wp-includes/js/dist/edit-post.js:7778 wp-includes/js/dist/edit-site.js:10482
+#: wp-admin/options-privacy.php:268
+msgid "Create"
+msgstr "إنشاء"
+
+#: wp-includes/js/dist/editor.js:5839 wp-admin/includes/template.php:2604
+msgid "The backup of this post in your browser is different from the version below."
+msgstr "النسخة الاحتياطية لهذه المقالة في المتصفح الخاص بك مختلفة عن النسخة أدناه."
+
+#: wp-includes/js/dist/editor.js:5842 wp-admin/includes/template.php:2605
+msgid "Restore the backup"
+msgstr "استعادة النسخة الاحتياطية"
+
+#: wp-includes/js/dist/editor.js:10393 wp-admin/edit-tag-form.php:153
+#: wp-admin/edit-tags.php:461
+#: wp-admin/includes/class-wp-posts-list-table.php:1637
+#: wp-admin/includes/class-wp-terms-list-table.php:196
+#: wp-admin/includes/class-wp-terms-list-table.php:671
+#: wp-admin/includes/meta-boxes.php:891 wp-admin/includes/meta-boxes.php:1584
+msgid "Slug"
+msgstr "الاسم اللطيف"
+
+#: wp-includes/js/dist/edit-post.js:7005 wp-admin/edit-form-advanced.php:145
+msgid "View post"
+msgstr "مشاهدة المقالة"
+
+#: wp-includes/blocks/navigation/block.json
+#: wp-includes/blocks/social-links/block.json
+msgctxt "block keyword"
+msgid "links"
+msgstr "الروابط"
+
+#: wp-includes/js/dist/core-data.js:2135
+#: wp-admin/includes/ajax-actions.php:1526
+msgid "Menu Item"
+msgstr "عنصر القائمة"
+
+#: wp-includes/blocks/paragraph/block.json
+msgctxt "block title"
+msgid "Paragraph"
+msgstr "فقرة"
+
+#: wp-includes/blocks/image/block.json
+msgctxt "block title"
+msgid "Image"
+msgstr "صورة"
+
+#: wp-includes/blocks/heading/block.json
+msgctxt "block title"
+msgid "Heading"
+msgstr "عنوان"
+
+#: wp-includes/blocks/quote/block.json
+msgctxt "block title"
+msgid "Quote"
+msgstr "اقتباس"
+
+#: wp-includes/blocks/gallery/block.json
+msgctxt "block title"
+msgid "Gallery"
+msgstr "معرض"
+
+#: wp-includes/blocks/archives/block.json
+msgctxt "block title"
+msgid "Archives"
+msgstr "أرشيفات"
+
+#: wp-includes/blocks/audio/block.json
+msgctxt "block title"
+msgid "Audio"
+msgstr "صوت"
+
+#: wp-includes/blocks/button/block.json
+msgctxt "block title"
+msgid "Button"
+msgstr "زر"
+
+#: wp-includes/blocks/buttons/block.json
+msgctxt "block title"
+msgid "Buttons"
+msgstr "أزرار"
+
+#: wp-includes/blocks/calendar/block.json
+msgctxt "block title"
+msgid "Calendar"
+msgstr "تقويم"
+
+#: wp-includes/blocks/categories/block.json
+msgctxt "block title"
+msgid "Categories"
+msgstr "تصنيفات"
+
+#: wp-includes/blocks/code/block.json
+msgctxt "block title"
+msgid "Code"
+msgstr "شفرة خاصة"
+
+#: wp-includes/blocks/columns/block.json
+msgctxt "block title"
+msgid "Columns"
+msgstr "أعمدة"
+
+#: wp-includes/blocks/column/block.json
+msgctxt "block title"
+msgid "Column"
+msgstr "عمود"
+
+#: wp-includes/blocks/cover/block.json
+msgctxt "block title"
+msgid "Cover"
+msgstr "غلاف"
+
+#: wp-includes/blocks/file/block.json
+msgctxt "block title"
+msgid "File"
+msgstr "ملف"
+
+#: wp-includes/blocks/html/block.json
+msgctxt "block title"
+msgid "Custom HTML"
+msgstr "HTML مخصص"
+
+#: wp-includes/blocks/media-text/block.json
+msgctxt "block title"
+msgid "Media & Text"
+msgstr "وسائط مع نصّ"
+
+#: wp-includes/blocks/latest-comments/block.json
+msgctxt "block title"
+msgid "Latest Comments"
+msgstr "آخر التعليقات"
+
+#: wp-includes/blocks/latest-posts/block.json
+msgctxt "block title"
+msgid "Latest Posts"
+msgstr "أحدث المقالات"
+
+#: wp-includes/blocks/list/block.json
+msgctxt "block title"
+msgid "List"
+msgstr "قائمة"
+
+#: wp-includes/blocks/missing/block.json
+msgctxt "block title"
+msgid "Unsupported"
+msgstr "غير مدعوم"
+
+#: wp-includes/blocks/more/block.json
+msgctxt "block title"
+msgid "More"
+msgstr "المزيد"
+
+#: wp-includes/blocks/nextpage/block.json
+msgctxt "block title"
+msgid "Page Break"
+msgstr "فاصل الصفحة"
+
+#: wp-includes/blocks/preformatted/block.json
+msgctxt "block title"
+msgid "Preformatted"
+msgstr "مهيأ مسبقاً"
+
+#: wp-includes/blocks/pullquote/block.json
+msgctxt "block title"
+msgid "Pullquote"
+msgstr "اقتباس مائل"
+
+#: wp-includes/blocks/block/block.json
+msgctxt "block title"
+msgid "Reusable block"
+msgstr "مكوّن قابل لإعادة الاستخدام"
+
+#: wp-includes/blocks/rss/block.json
+msgctxt "block title"
+msgid "RSS"
+msgstr "RSS"
+
+#: wp-includes/blocks/search/block.json
+msgctxt "block title"
+msgid "Search"
+msgstr "بحث"
+
+#: wp-includes/blocks/group/block.json
+msgctxt "block title"
+msgid "Group"
+msgstr "مجموعة"
+
+#: wp-includes/blocks/separator/block.json
+msgctxt "block title"
+msgid "Separator"
+msgstr "فاصل"
+
+#: wp-includes/blocks/shortcode/block.json
+msgctxt "block title"
+msgid "Shortcode"
+msgstr "كود قصير"
+
+#: wp-includes/blocks/spacer/block.json
+msgctxt "block title"
+msgid "Spacer"
+msgstr "فراغ فاصل"
+
+#: wp-includes/blocks/table/block.json
+msgctxt "block title"
+msgid "Table"
+msgstr "جدول"
+
+#: wp-includes/blocks/text-columns/block.json
+msgctxt "block title"
+msgid "Text Columns (deprecated)"
+msgstr "أعمدة النص (مُهملة)"
+
+#: wp-includes/blocks/verse/block.json
+msgctxt "block title"
+msgid "Verse"
+msgstr "آية / بيت شعر"
+
+#: wp-includes/blocks/video/block.json
+msgctxt "block title"
+msgid "Video"
+msgstr "فيديو"
+
+#: wp-includes/blocks/tag-cloud/block.json
+msgctxt "block title"
+msgid "Tag Cloud"
+msgstr "سحابة وسوم"
+
+#: wp-includes/blocks/social-links/block.json
+msgctxt "block title"
+msgid "Social Icons"
+msgstr "أيقونات اجتماعية"
+
+#: wp-includes/blocks/social-link/block.json
+msgctxt "block title"
+msgid "Social Icon"
+msgstr "أيقونة اجتماعية"
+
+#: wp-includes/blocks/archives/block.json
+msgctxt "block description"
+msgid "Display a date archive of your posts."
+msgstr "عرض أرشيف شهري لمقالات موقعك."
+
+#: wp-includes/blocks/audio/block.json
+msgctxt "block description"
+msgid "Embed a simple audio player."
+msgstr "تضمين مشغل صوت بسيط."
+
+#: wp-includes/blocks/audio/block.json
+msgctxt "block keyword"
+msgid "music"
+msgstr "موسيقى"
+
+#: wp-includes/blocks/audio/block.json
+msgctxt "block keyword"
+msgid "sound"
+msgstr "صوت"
+
+#: wp-includes/blocks/audio/block.json
+msgctxt "block keyword"
+msgid "podcast"
+msgstr "بودكاست"
+
+#: wp-includes/blocks/audio/block.json
+msgctxt "block keyword"
+msgid "recording"
+msgstr "جاري التسجيل"
+
+#: wp-includes/blocks/button/block.json
+msgctxt "block description"
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "حث الزوّار على اتخاذ إجراء باستخدام رابط على شكل زر."
+
+#: wp-includes/blocks/button/block.json
+msgctxt "block style label"
+msgid "Fill"
+msgstr "تعبئة"
+
+#: wp-includes/blocks/button/block.json wp-includes/blocks/tag-cloud/block.json
+msgctxt "block style label"
+msgid "Outline"
+msgstr "مُحدد"
+
+#: wp-includes/blocks/buttons/block.json
+msgctxt "block description"
+msgid "Prompt visitors to take action with a group of button-style links."
+msgstr "حث الزوّار على اتخاذ إجراء باستخدام مجموعة من الروابط على شكل زر."
+
+#: wp-includes/blocks/calendar/block.json
+msgctxt "block description"
+msgid "A calendar of your site’s posts."
+msgstr "إضافة تقويم لمقالات موقعك."
+
+#: wp-includes/blocks/calendar/block.json
+msgctxt "block keyword"
+msgid "posts"
+msgstr "مقالات"
+
+#: wp-includes/blocks/calendar/block.json
+msgctxt "block keyword"
+msgid "archive"
+msgstr "أرشيف"
+
+#: wp-includes/blocks/categories/block.json
+msgctxt "block description"
+msgid "Display a list of all categories."
+msgstr "عرض قائمة جميع التصنيفات."
+
+#: wp-includes/blocks/code/block.json
+msgctxt "block description"
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "عرض مقتطفات الشفرة الخاصة بك بطريقة تحترم المسافات وترتيب الكود."
+
+#: wp-includes/blocks/column/block.json
+msgctxt "block description"
+msgid "A single column within a columns block."
+msgstr "عمود واحد داخل مكوّن الأعمدة."
+
+#: wp-includes/blocks/cover/block.json
+msgctxt "block description"
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "إضافة صورة أو فيديو مع غِشاء نصّي — رائع للترويسات."
+
+#: wp-includes/blocks/file/block.json
+msgctxt "block description"
+msgid "Add a link to a downloadable file."
+msgstr "أضف رابطًا إلى ملف قابل للتنزيل."
+
+#: wp-includes/blocks/file/block.json
+msgctxt "block keyword"
+msgid "document"
+msgstr "مستند"
+
+#: wp-includes/blocks/file/block.json
+msgctxt "block keyword"
+msgid "pdf"
+msgstr "pdf"
+
+#: wp-includes/blocks/file/block.json
+msgctxt "block keyword"
+msgid "download"
+msgstr "تنزيل"
+
+#: wp-includes/blocks/freeform/block.json
+msgctxt "block description"
+msgid "Use the classic WordPress editor."
+msgstr "استخدام مُحرر ووردبريس التقليدي."
+
+#: wp-includes/blocks/gallery/block.json
+msgctxt "block description"
+msgid "Display multiple images in a rich gallery."
+msgstr "عرض صور متعددة في معرض صور ثريّ."
+
+#: wp-includes/blocks/gallery/block.json
+msgctxt "block keyword"
+msgid "images"
+msgstr "صور"
+
+#: wp-includes/blocks/gallery/block.json
+msgctxt "block keyword"
+msgid "photos"
+msgstr "صور"
+
+#: wp-includes/blocks/group/block.json
+msgctxt "block keyword"
+msgid "container"
+msgstr "حاوية"
+
+#: wp-includes/blocks/group/block.json
+msgctxt "block keyword"
+msgid "wrapper"
+msgstr "غلاف"
+
+#: wp-includes/blocks/group/block.json
+msgctxt "block keyword"
+msgid "row"
+msgstr "صف"
+
+#: wp-includes/blocks/group/block.json
+msgctxt "block keyword"
+msgid "section"
+msgstr "قسم"
+
+#: wp-includes/blocks/heading/block.json
+msgctxt "block keyword"
+msgid "title"
+msgstr "عنوان"
+
+#: wp-includes/blocks/heading/block.json
+msgctxt "block keyword"
+msgid "subtitle"
+msgstr "عنوان فرعي"
+
+#: wp-includes/blocks/html/block.json
+msgctxt "block description"
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "إضافة شفرة HTML مخصصة ومعاينتها أثناء التحرير."
+
+#: wp-includes/blocks/html/block.json
+msgctxt "block keyword"
+msgid "embed"
+msgstr "تضمين"
+
+#: wp-includes/blocks/image/block.json
+msgctxt "block description"
+msgid "Insert an image to make a visual statement."
+msgstr "إدراج صورة من أجل جذب الانتباه."
+
+#: wp-includes/blocks/image/block.json
+msgctxt "block keyword"
+msgid "img"
+msgstr "صورة"
+
+#: wp-includes/blocks/image/block.json
+msgctxt "block keyword"
+msgid "photo"
+msgstr "صورة"
+
+#: wp-includes/blocks/image/block.json
+msgctxt "block keyword"
+msgid "picture"
+msgstr "صورة"
+
+#: wp-includes/blocks/image/block.json wp-includes/blocks/quote/block.json
+#: wp-includes/blocks/separator/block.json
+#: wp-includes/blocks/site-logo/block.json
+#: wp-includes/blocks/social-links/block.json
+#: wp-includes/blocks/table/block.json wp-includes/blocks/tag-cloud/block.json
+msgctxt "block style label"
+msgid "Default"
+msgstr "افتراضي"
+
+#: wp-includes/blocks/image/block.json wp-includes/blocks/site-logo/block.json
+msgctxt "block style label"
+msgid "Rounded"
+msgstr "دائري"
+
+#: wp-includes/blocks/latest-comments/block.json
+msgctxt "block description"
+msgid "Display a list of your most recent comments."
+msgstr "عرض قائمة بأحدث التعليقات."
+
+#: wp-includes/blocks/latest-comments/block.json
+msgctxt "block keyword"
+msgid "recent comments"
+msgstr "أحدث التعليقات"
+
+#: wp-includes/blocks/latest-posts/block.json
+msgctxt "block description"
+msgid "Display a list of your most recent posts."
+msgstr "عرض قائمة بأحدث مشاركاتك."
+
+#: wp-includes/blocks/latest-posts/block.json
+msgctxt "block keyword"
+msgid "recent posts"
+msgstr "أحدث المقالات"
+
+#: wp-includes/blocks/legacy-widget/block.json
+msgctxt "block title"
+msgid "Legacy Widget"
+msgstr "ودجت سابق"
+
+#: wp-includes/blocks/legacy-widget/block.json
+msgctxt "block description"
+msgid "Display a legacy widget."
+msgstr "عرض ودجت سابق."
+
+#: wp-includes/blocks/list/block.json
+msgctxt "block description"
+msgid "Create a bulleted or numbered list."
+msgstr "إنشاء قائمة نقطية أو قائمة مرقّمة."
+
+#: wp-includes/blocks/list/block.json
+msgctxt "block keyword"
+msgid "bullet list"
+msgstr "قائمة النقاط"
+
+#: wp-includes/blocks/list/block.json
+msgctxt "block keyword"
+msgid "ordered list"
+msgstr "قائمة مرتبة"
+
+#: wp-includes/blocks/list/block.json
+msgctxt "block keyword"
+msgid "numbered list"
+msgstr "قائمة مرقّمة"
+
+#: wp-includes/blocks/loginout/block.json
+msgctxt "block title"
+msgid "Login/out"
+msgstr "تسجيل دخول/خروج"
+
+#: wp-includes/blocks/loginout/block.json
+msgctxt "block description"
+msgid "Show login & logout links."
+msgstr "إظهار روابط تسجيل الدخول والخروج."
+
+#: wp-includes/blocks/loginout/block.json
+msgctxt "block keyword"
+msgid "login"
+msgstr "تسجيل دخول"
+
+#: wp-includes/blocks/loginout/block.json
+msgctxt "block keyword"
+msgid "logout"
+msgstr "تسجيل خروج"
+
+#: wp-includes/blocks/loginout/block.json
+msgctxt "block keyword"
+msgid "form"
+msgstr "نموذج"
+
+#: wp-includes/blocks/media-text/block.json
+msgctxt "block description"
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "ضبط الوسائط والكلمات جنبًا إلى جنب للحصول على تنسيق أكثر ثراءً."
+
+#: wp-includes/blocks/media-text/block.json
+msgctxt "block keyword"
+msgid "image"
+msgstr "صورة"
+
+#: wp-includes/blocks/media-text/block.json
+msgctxt "block keyword"
+msgid "video"
+msgstr "فيديو"
+
+#: wp-includes/blocks/missing/block.json
+msgctxt "block description"
+msgid "Your site doesn’t include support for this block."
+msgstr "موقعك لا يتضمن الدعم لهذا المكوّن."
+
+#: wp-includes/blocks/more/block.json
+msgctxt "block description"
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "المحتوى قبل هذا المكوّن سيتمّ عرضه في المقتطف الموجود على صفحة الأرشيفات."
+
+#: wp-includes/blocks/more/block.json
+msgctxt "block keyword"
+msgid "read more"
+msgstr "قراءة المزيد"
+
+#: wp-includes/blocks/nextpage/block.json
+msgctxt "block description"
+msgid "Separate your content into a multi-page experience."
+msgstr "فصل المحتوى الخاص بك بتجربة الصفحات المتعددة."
+
+#: wp-includes/blocks/nextpage/block.json
+msgctxt "block keyword"
+msgid "next page"
+msgstr "الصفحة التالية"
+
+#: wp-includes/blocks/nextpage/block.json
+msgctxt "block keyword"
+msgid "pagination"
+msgstr "تعدد الصفحات"
+
+#: wp-includes/blocks/page-list/block.json
+msgctxt "block title"
+msgid "Page List"
+msgstr "قائمة الصفحات"
+
+#: wp-includes/blocks/page-list/block.json
+msgctxt "block description"
+msgid "Display a list of all pages."
+msgstr "عرض قائمة جميع الصفحات."
+
+#: wp-includes/blocks/navigation/block.json
+#: wp-includes/blocks/page-list/block.json
+msgctxt "block keyword"
+msgid "menu"
+msgstr "قائمة"
+
+#: wp-includes/blocks/navigation/block.json
+#: wp-includes/blocks/page-list/block.json
+msgctxt "block keyword"
+msgid "navigation"
+msgstr "تنقّل"
+
+#: wp-includes/blocks/paragraph/block.json
+msgctxt "block description"
+msgid "Start with the basic building block of all narrative."
+msgstr "ابدأ بناء مكوّنات لكل الحكايا."
+
+#: wp-includes/blocks/paragraph/block.json
+msgctxt "block keyword"
+msgid "text"
+msgstr "نص"
+
+#: wp-includes/blocks/post-content/block.json
+msgctxt "block title"
+msgid "Post Content"
+msgstr "محتوى المقالة"
+
+#: wp-includes/blocks/post-content/block.json
+msgctxt "block description"
+msgid "Displays the contents of a post or page."
+msgstr "عرض المحتوى لمقالة أو صفحة."
+
+#: wp-includes/blocks/post-date/block.json
+msgctxt "block title"
+msgid "Post Date"
+msgstr "تاريخ المقالة"
+
+#: wp-includes/blocks/post-date/block.json
+msgctxt "block description"
+msgid "Add the date of this post."
+msgstr "أضف التاريخ لهذه المقالة."
+
+#: wp-includes/blocks/post-excerpt/block.json
+msgctxt "block title"
+msgid "Post Excerpt"
+msgstr "مقتطف المقالة"
+
+#: wp-includes/blocks/post-excerpt/block.json
+msgctxt "block description"
+msgid "Display a post's excerpt."
+msgstr "عرض مقتطف لمقالة."
+
+#: wp-includes/blocks/post-featured-image/block.json
+msgctxt "block title"
+msgid "Post Featured Image"
+msgstr "الصورة البارزة للمقالة"
+
+#: wp-includes/blocks/post-featured-image/block.json
+msgctxt "block description"
+msgid "Display a post's featured image."
+msgstr "عرض الصورة البارزة لمقالة."
+
+#: wp-includes/blocks/post-template/block.json
+msgctxt "block title"
+msgid "Post Template"
+msgstr "قالب نموذج المقالة"
+
+#: wp-includes/blocks/post-template/block.json
+msgctxt "block description"
+msgid "Contains the block elements used to render a post, like the title, date, featured image, content or excerpt, and more."
+msgstr "يحتوي على عناصر المكوّن المستخدمة لتقديم وعرض مقالة، مثل العنوان، التاريخ، الصورة البارزة، المحتوى أو المقتطف، والمزيد."
+
+#: wp-includes/blocks/post-terms/block.json
+msgctxt "block title"
+msgid "Post Terms"
+msgstr "عناصر المقالة"
+
+#: wp-includes/blocks/post-terms/block.json
+msgctxt "block description"
+msgid "Post terms."
+msgstr "عناصر المقالة."
+
+#: wp-includes/blocks/post-title/block.json
+msgctxt "block title"
+msgid "Post Title"
+msgstr "عنوان المقالة"
+
+#: wp-includes/blocks/post-title/block.json
+msgctxt "block description"
+msgid "Displays the title of a post, page, or any other content-type."
+msgstr "عرض العنوان لمقالة أو صفحة، أو أي نوع آخر من المحتوى."
+
+#: wp-includes/blocks/preformatted/block.json
+msgctxt "block description"
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "أضف نصًا يحترم التباعد وعلامات التبويب، ويسمح أيضًا بالتنسيقات."
+
+#: wp-includes/blocks/pullquote/block.json
+msgctxt "block description"
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "يمنح تركيزاً بصرياً خاصّاً لاقتباس من نصك."
+
+#: wp-includes/blocks/query-pagination-next/block.json
+msgctxt "block description"
+msgid "Displays the next posts page link."
+msgstr "لعرض رابط صفحة المقالات التالية."
+
+#: wp-includes/blocks/query-pagination-numbers/block.json
+msgctxt "block description"
+msgid "Displays a list of page numbers for pagination"
+msgstr "إظهار قائمة بأرقام الصفحات من أجل ترقيم الصفحات"
+
+#: wp-includes/blocks/query-pagination-previous/block.json
+msgctxt "block description"
+msgid "Displays the previous posts page link."
+msgstr "لعرض رابط صفحة المقالات السابقة."
+
+#: wp-includes/blocks/query-pagination/block.json
+msgctxt "block description"
+msgid "Displays a paginated navigation to next/previous set of posts, when applicable."
+msgstr "يعرض قائمة تنقّل عبر أرقام الصفحات على شكل التالية/السابقة، حينما يكون قابلاً للاستعمال."
+
+#: wp-includes/blocks/query-title/block.json
+msgctxt "block title"
+msgid "Query Title"
+msgstr "عنوان الاستعلام"
+
+#: wp-includes/blocks/query-title/block.json
+msgctxt "block description"
+msgid "Display the query title."
+msgstr "عرض عنوان الاستعلام."
+
+#: wp-includes/blocks/query/block.json
+msgctxt "block title"
+msgid "Query Loop"
+msgstr "حلقة استعلام"
+
+#: wp-includes/blocks/query/block.json
+msgctxt "block description"
+msgid "An advanced block that allows displaying post types based on different query parameters and visual configurations."
+msgstr "مكوّن متقدم يتيح عرض أنواع المقالات وفقاً لمعايير استعلام مختلفة وتكوينات مرئية."
+
+#: wp-includes/blocks/quote/block.json
+msgctxt "block keyword"
+msgid "blockquote"
+msgstr "صندوق اقتباس مستقل"
+
+#: wp-includes/blocks/quote/block.json
+msgctxt "block keyword"
+msgid "cite"
+msgstr "اقتباس (استشهاد بـ)"
+
+#: wp-includes/blocks/rss/block.json
+msgctxt "block description"
+msgid "Display entries from any RSS or Atom feed."
+msgstr "عرض الإدخالات من أي RSS أو خلاصة Atom."
+
+#: wp-includes/blocks/rss/block.json
+msgctxt "block keyword"
+msgid "atom"
+msgstr "atom"
+
+#: wp-includes/blocks/rss/block.json
+msgctxt "block keyword"
+msgid "feed"
+msgstr "خلاصة Feed"
+
+#: wp-includes/blocks/search/block.json
+msgctxt "block description"
+msgid "Help visitors find your content."
+msgstr "مساعدة الزوار في العثور على المحتوى الخاص بك."
+
+#: wp-includes/blocks/search/block.json
+msgctxt "block keyword"
+msgid "find"
+msgstr "إيجاد"
+
+#: wp-includes/blocks/separator/block.json
+msgctxt "block description"
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "إنشاء فاصل بين الأفكار أو الأقسام باستخدام فاصل أفقي."
+
+#: wp-includes/blocks/separator/block.json
+msgctxt "block keyword"
+msgid "horizontal-line"
+msgstr "خط أفقي"
+
+#: wp-includes/blocks/separator/block.json
+msgctxt "block keyword"
+msgid "hr"
+msgstr "hr"
+
+#: wp-includes/blocks/separator/block.json
+msgctxt "block keyword"
+msgid "divider"
+msgstr "مُقسّم"
+
+#: wp-includes/blocks/separator/block.json
+msgctxt "block style label"
+msgid "Wide Line"
+msgstr "خط واسع"
+
+#: wp-includes/blocks/separator/block.json
+msgctxt "block style label"
+msgid "Dots"
+msgstr "نقاط"
+
+#: wp-includes/blocks/shortcode/block.json
+msgctxt "block description"
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "إدراج عناصر مخصصة إضافية باستخدام الأكواد القصيرة الخاصة بـ ووردبريس."
+
+#: wp-includes/blocks/site-logo/block.json
+msgctxt "block title"
+msgid "Site Logo"
+msgstr "شعار الموقع"
+
+#: wp-includes/blocks/site-tagline/block.json
+msgctxt "block title"
+msgid "Site Tagline"
+msgstr "سطر وصف الموقع"
+
+#: wp-includes/blocks/site-tagline/block.json
+msgctxt "block description"
+msgid "Describe in a few words what the site is about. The tagline can be used in search results or when sharing on social networks even if it's not displayed in the theme design."
+msgstr "صف الموقع بقليل من الكلمات. يمكن استخدام سطر الوصف في نتائج البحث أو عند المشاركة على وسائل التواصل الاجتماعي حتى لو لم يتم عرضه في تصميم القالب."
+
+#: wp-includes/blocks/site-tagline/block.json
+msgctxt "block keyword"
+msgid "description"
+msgstr "الوصف"
+
+#: wp-includes/blocks/site-title/block.json
+msgctxt "block title"
+msgid "Site Title"
+msgstr "اسم الموقع"
+
+#: wp-includes/blocks/social-link/block.json
+msgctxt "block description"
+msgid "Display an icon linking to a social media profile or site."
+msgstr "عرض أيقونة ترتبط بحساب موقع تواصل اجتماعي أو موقع إلكتروني."
+
+#: wp-includes/blocks/social-links/block.json
+msgctxt "block description"
+msgid "Display icons linking to your social media profiles or sites."
+msgstr "عرض أيقونات ترتبط بحساباتك في مواقع التواصل الاجتماعي أو مواقعك الإلكترونية."
+
+#: wp-includes/blocks/social-links/block.json
+msgctxt "block style label"
+msgid "Logos Only"
+msgstr "شعارات فقط"
+
+#: wp-includes/blocks/social-links/block.json
+msgctxt "block style label"
+msgid "Pill Shape"
+msgstr "شكل قرص"
+
+#: wp-includes/blocks/spacer/block.json
+msgctxt "block description"
+msgid "Add white space between blocks and customize its height."
+msgstr "إضافة مسافة بيضاء بين المكوّنات وتخصيص ارتفاعها."
+
+#: wp-includes/blocks/table/block.json
+msgctxt "block style label"
+msgid "Stripes"
+msgstr "مخطط (مسطّر)"
+
+#: wp-includes/blocks/tag-cloud/block.json
+msgctxt "block description"
+msgid "A cloud of your most used tags."
+msgstr "سحابة من وسومك الأكثر استخدامًا."
+
+#: wp-includes/blocks/text-columns/block.json
+msgctxt "block description"
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "هذا المكوّن مُهمل. يرجى استخدام مكوّن الأعمدة بدلاً من ذلك."
+
+#: wp-includes/blocks/verse/block.json
+msgctxt "block description"
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "إدراج بيت شِعر. استخدم تنسيقات المسافات الخاصة. أو اقتبس كلمات لأغنية."
+
+#: wp-includes/blocks/verse/block.json
+msgctxt "block keyword"
+msgid "poetry"
+msgstr "الشِعر"
+
+#: wp-includes/blocks/verse/block.json
+msgctxt "block keyword"
+msgid "poem"
+msgstr "قصيدة"
+
+#: wp-includes/blocks/video/block.json
+msgctxt "block description"
+msgid "Embed a video from your media library or upload a new one."
+msgstr "تضمين فيديو من مكتبة الوسائط الخاصة بك أو رفع ملف جديد."
+
+#: wp-includes/blocks/video/block.json
+msgctxt "block keyword"
+msgid "movie"
+msgstr "فيلم"
+
+#: wp-includes/blocks/button/block.json wp-includes/blocks/buttons/block.json
+msgctxt "block keyword"
+msgid "link"
+msgstr "رابط"
+
+#: wp-includes/theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "صغير"
+
+#: wp-includes/theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "وسط"
+
+#: wp-includes/theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "كبير"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Black"
+msgstr "أسود"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Cyan bluish gray"
+msgstr "رمادي مزرق سماوي"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "White"
+msgstr "أبيض"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Pale pink"
+msgstr "زهري فاتح"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Vivid red"
+msgstr "أحمر فاقع"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Luminous vivid orange"
+msgstr "برتقالي فاقع"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Luminous vivid amber"
+msgstr "برتقالي ناري"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Light green cyan"
+msgstr "أخضر سماوي فاتح"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Vivid green cyan"
+msgstr "أخضر سماوي حيوي"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Pale cyan blue"
+msgstr "أزرق سماوي شاحب"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Vivid cyan blue"
+msgstr "أزرق سماوي زاهي"
+
+#: wp-includes/theme.json
+msgctxt "Color name"
+msgid "Vivid purple"
+msgstr "أرجواني ساطع"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Vivid cyan blue to vivid purple"
+msgstr "أزرق سماوي زاهي إلى بنفسجي زاهي"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Light green cyan to vivid green cyan"
+msgstr "أخضر سماوي مضيء إلى أخضر سماوي زاهي"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Luminous vivid amber to luminous vivid orange"
+msgstr "أصفر زاهي مضيء إلى برتقالي زاهي مضيء"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Luminous vivid orange to vivid red"
+msgstr "برتقالي زاهي إلى أحمر زاهي"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Very light gray to cyan bluish gray"
+msgstr "رمادي فاتح جدًا إلى رمادي مزرق سماوي"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Cool to warm spectrum"
+msgstr "طيف بارد إلى دافئ"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Blush light purple"
+msgstr "بنفسجي متورد"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Blush bordeaux"
+msgstr "وردي نبيذي"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Luminous dusk"
+msgstr "شفق معزول"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Pale ocean"
+msgstr "محيط باهت"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Electric grass"
+msgstr "أخضر مشع"
+
+#: wp-includes/theme.json
+msgctxt "Gradient name"
+msgid "Midnight"
+msgstr "أزرق منتصف الليل"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Dark grayscale"
+msgstr "تدرّجات الرمادي الداكن"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Grayscale"
+msgstr "تدرّجات الرمادي"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Purple and yellow"
+msgstr "أرجواني وأصفر"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Blue and red"
+msgstr "أزرق وأحمر"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Midnight"
+msgstr "أزرق منتصف الليل"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Magenta and yellow"
+msgstr "أحمر أرجواني وأصفر"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Purple and green"
+msgstr "أرجواني وأخضر"
+
+#: wp-includes/theme.json
+msgctxt "Duotone name"
+msgid "Blue and orange"
+msgstr "أزرق وبرتقالي"
+
+#: wp-includes/js/dist/edit-site.js:12227 wp-admin/site-editor.php:44
+msgid "Editor (beta)"
+msgstr "المحرر (تجريبي)"
+
+#: wp-includes/blocks/columns/block.json
+msgctxt "block description"
+msgid "Display content in multiple columns, with blocks added to each column."
+msgstr "عرض المحتوى في عدة أعمدة، من خلال إضافة مكوّنات لكل عمود."
+
+#: wp-includes/blocks/navigation-link/block.json
+msgctxt "block title"
+msgid "Custom Link"
+msgstr "رابط مخصص"
+
+#: wp-includes/blocks/navigation-link/block.json
+msgctxt "block description"
+msgid "Add a page, link, or another item to your navigation."
+msgstr "إضافة صفحة أو رابطًا أو عنصرًا آخر إلى قائمة التصفّح الخاصة بك."
+
+#: wp-includes/blocks/navigation-submenu/block.json
+msgctxt "block title"
+msgid "Submenu"
+msgstr "القائمة الفرعية"
+
+#: wp-includes/blocks/navigation-submenu/block.json
+msgctxt "block description"
+msgid "Add a submenu to your navigation."
+msgstr "أضف قائمة فرعية لقائمة التصفّح الخاص بك."
+
+#: wp-includes/blocks/navigation/block.json
+msgctxt "block title"
+msgid "Navigation"
+msgstr "التنقّل"
+
+#: wp-includes/blocks/navigation/block.json
+msgctxt "block description"
+msgid "A collection of blocks that allow visitors to get around your site."
+msgstr "مجموعة من المكوّنات التي تسمح للزوار بالتعرف على موقعك."
+
+#: wp-includes/blocks/pattern/block.json
+msgctxt "block title"
+msgid "Pattern"
+msgstr "نمط"
+
+#: wp-includes/blocks/pattern/block.json
+msgctxt "block description"
+msgid "Show a block pattern."
+msgstr "عرض نمط لـ مكوّن."
+
+#: wp-includes/blocks/post-author/block.json
+msgctxt "block title"
+msgid "Post Author"
+msgstr "كاتب المقالة"
+
+#: wp-includes/blocks/post-comments-form/block.json
+msgctxt "block title"
+msgid "Post Comments Form"
+msgstr "نموذج تعليقات المقالة"
+
+#: wp-includes/blocks/post-navigation-link/block.json
+msgctxt "block title"
+msgid "Post Navigation Link"
+msgstr "رابط التنقل للمقالة"
+
+#: wp-includes/blocks/post-navigation-link/block.json
+msgctxt "block description"
+msgid "Displays the next or previous post link that is adjacent to the current post."
+msgstr "عرض رابط المقالة التالية أو المقالة السابقة المصاحبة للمقالة الحالية."
+
+#: wp-includes/blocks/comments-pagination-next/block.json
+#: wp-includes/blocks/query-pagination-next/block.json
+msgctxt "block title"
+msgid "Next Page"
+msgstr "الصفحة التالية"
+
+#: wp-includes/blocks/comments-pagination-numbers/block.json
+#: wp-includes/blocks/query-pagination-numbers/block.json
+msgctxt "block title"
+msgid "Page Numbers"
+msgstr "أرقام الصفحات"
+
+#: wp-includes/blocks/comments-pagination-previous/block.json
+#: wp-includes/blocks/query-pagination-previous/block.json
+msgctxt "block title"
+msgid "Previous Page"
+msgstr "الصفحة السابقة"
+
+#: wp-includes/blocks/query-pagination/block.json
+msgctxt "block title"
+msgid "Pagination"
+msgstr "تعدد الصفحات"
+
+#: wp-includes/blocks/quote/block.json
+msgctxt "block style label"
+msgid "Plain"
+msgstr "عادي"
+
+#: wp-includes/blocks/site-logo/block.json
+msgctxt "block description"
+msgid "Display a graphic to represent this site. Update the block, and the changes apply everywhere it’s used. This is different than the site icon, which is the smaller image visible in your dashboard, browser tabs, etc used to help others recognize this site."
+msgstr "عرض رسم لتمثيل هذا الموقع. قم بتحديث المكّون، وسيتم تطبيق التغييرات في كل مكان تم استخدامه فيه. هذا يختلف عن أيقونة الموقع، وهي أصغر صورة تظهر في لوحة التحكم الخاصة بك، وفي علامات تبويب المتصفح وما إلى ذلك، والمستخدمة لمساعدة الآخرين في التعرف على هذا الموقع."
+
+#: wp-includes/blocks/site-title/block.json
+msgctxt "block description"
+msgid "Displays the name of this site. Update the block, and the changes apply everywhere it’s used. This will also appear in the browser title bar and in search results."
+msgstr "عرض اسم الموقع. قم بتحديث المكوّن، وسيتم تطبيق التغييرات في كل مكان تم استخدامه فيه. يظهر هذا أيضًا في شريط عنوان المتصفح وفي نتائج البحث."
+
+#: wp-includes/blocks/table/block.json
+msgctxt "block description"
+msgid "Create structured content in rows and columns to display information."
+msgstr "إنشاء محتوى مُنظم في جدول لعرض المعلومات بشكل مُنسق."
+
+#: wp-includes/blocks/template-part/block.json
+msgctxt "block title"
+msgid "Template Part"
+msgstr "جزء القالب"
+
+#: wp-includes/blocks/template-part/block.json
+msgctxt "block description"
+msgid "Edit the different global regions of your site, like the header, footer, sidebar, or create your own."
+msgstr "تحرير المناطق الرئيسية المختلفة في موقعك، مثل الهيدر، الفوتر، الشريط الجانبي، أو إنشاء شيء خاص بك."
+
+#: wp-includes/blocks/term-description/block.json
+msgctxt "block title"
+msgid "Term Description"
+msgstr "وصف العنصر"
+
+#: wp-includes/blocks/term-description/block.json
+msgctxt "block description"
+msgid "Display the description of categories, tags and custom taxonomies when viewing an archive."
+msgstr "عرض وصف التصنيفات، الوسوم والفئات المخصصة عند عرض الأرشيف."
+
+#: wp-includes/theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "كبير جدًا"
+
+#: wp-includes/blocks/avatar/block.json
+msgctxt "block title"
+msgid "Avatar"
+msgstr "الصورة الرمزية"
+
+#: wp-includes/blocks/avatar/block.json
+msgctxt "block description"
+msgid "Add a user's avatar."
+msgstr "إضافة صورة رمزية للمستخدم."
+
+#: wp-includes/blocks/comment-author-name/block.json
+msgctxt "block title"
+msgid "Comment Author Name"
+msgstr "اسم كاتب التعليق"
+
+#: wp-includes/blocks/comment-author-name/block.json
+msgctxt "block description"
+msgid "Displays the name of the author of the comment."
+msgstr "إظهار اسم كاتب التعليق."
+
+#: wp-includes/blocks/comment-content/block.json
+msgctxt "block description"
+msgid "Displays the contents of a comment."
+msgstr "إظهار محتوى التعليق."
+
+#: wp-includes/blocks/comment-date/block.json
+msgctxt "block description"
+msgid "Displays the date on which the comment was posted."
+msgstr "إظهار التاريخ على التعليق الذي تمّ نشره."
+
+#: wp-includes/blocks/comment-reply-link/block.json
+msgctxt "block title"
+msgid "Comment Reply Link"
+msgstr "رابط الرد على التعليقات"
+
+#: wp-includes/blocks/comment-template/block.json
+msgctxt "block title"
+msgid "Comment Template"
+msgstr "قالب التعليقات"
+
+#: wp-includes/blocks/comments-pagination-next/block.json
+msgctxt "block description"
+msgid "Displays the next comment's page link."
+msgstr "إظهار رابط صفحة التعليقات التالية."
+
+#: wp-includes/blocks/comments-pagination-numbers/block.json
+msgctxt "block description"
+msgid "Displays a list of page numbers for comments pagination."
+msgstr "إظهار قائمة بأرقام صفحات التعليقات."
+
+#: wp-includes/blocks/comments-pagination-previous/block.json
+msgctxt "block description"
+msgid "Displays the previous comment's page link."
+msgstr "إظهار رابط صفحة التعليقات السابقة."
+
+#: wp-includes/blocks/comments-pagination/block.json
+msgctxt "block title"
+msgid "Comments Pagination"
+msgstr "ترقيم التعليقات"
+
+#: wp-includes/blocks/comments-query-loop/block.json
+msgctxt "block title"
+msgid "Comments Query Loop"
+msgstr "حلقة استعلام عن التعليقات"
+
+#: wp-includes/blocks/comments-query-loop/block.json
+msgctxt "block description"
+msgid "An advanced block that allows displaying post comments using different visual configurations."
+msgstr "مكوّن متقدم يسمح لك باستعراض تعليقات المقالة باستخدام إعدادات مرئية مختلفة."
+
+#: wp-includes/blocks/comments-title/block.json
+msgctxt "block title"
+msgid "Comments Title"
+msgstr "عنوان التعليقات"
+
+#: wp-includes/blocks/comments-title/block.json
+msgctxt "block description"
+msgid "Displays a title with the number of comments"
+msgstr "يعرض العنوان مع عدد التعليقات"
+
+#: wp-includes/blocks/group/block.json
+msgctxt "block description"
+msgid "Gather blocks in a layout container."
+msgstr "تجميع المكوّنات في حاوية تخطيط."
+
+#: wp-includes/blocks/home-link/block.json
+msgctxt "block title"
+msgid "Home Link"
+msgstr "رابط الصفحة الرئيسية"
+
+#: wp-includes/blocks/post-author-biography/block.json
+msgctxt "block title"
+msgid "Post Author Biography"
+msgstr "النبذة التعريفيّة لكاتب المقالة"
+
+#: wp-includes/blocks/post-author-biography/block.json
+msgctxt "block description"
+msgid "The author biography."
+msgstr "النبذة التعريفيّة للكاتب."
+
+#: wp-includes/blocks/post-author/block.json
+msgctxt "block description"
+msgid "Display post author details such as name, avatar, and bio."
+msgstr "عرض تفاصيل كاتب المقالة مثل الاسم، الصورة الرمزية، والنبذة التعريفيّة."
+
+#: wp-includes/blocks/post-comments/block.json
+msgctxt "block title"
+msgid "Post Comments (deprecated)"
+msgstr "تعليقات المقالة (مهجورة)"
+
+#: wp-includes/blocks/query-no-results/block.json
+msgctxt "block title"
+msgid "No results"
+msgstr "لا توجد نتائج"
+
+#: wp-includes/blocks/read-more/block.json
+msgctxt "block title"
+msgid "Read More"
+msgstr "اقرأ المزيد"
+
+#: wp-includes/blocks/read-more/block.json
+msgctxt "block description"
+msgid "Displays the link of a post, page, or any other content-type."
+msgstr "إظهار رابط لمقالة أو لصفحة أو لأي نوع محتوى آخر."
+
+#: wp-signup.php:210 wp-admin/includes/class-wp-debug-data.php:102
+#: wp-admin/includes/class-wp-debug-data.php:107
+#: wp-admin/includes/class-wp-debug-data.php:112
+#: wp-admin/includes/class-wp-debug-data.php:117
+#: wp-admin/includes/class-wp-debug-data.php:797
+#: wp-admin/includes/class-wp-debug-data.php:806
+#: wp-admin/includes/class-wp-debug-data.php:815
+#: wp-admin/includes/class-wp-links-list-table.php:267
+msgid "No"
+msgstr "لا"
+
+#. translators: %s: Human-readable time difference.
+#. translators: %s: Duration.
+#: wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php:141
+#: wp-includes/script-loader.php:405
+#: wp-admin/includes/class-wp-media-list-table.php:505
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:772
+#: wp-admin/includes/class-wp-privacy-requests-table.php:479
+#: wp-admin/includes/plugin-install.php:659 wp-admin/includes/revision.php:251
+#: wp-admin/includes/revision.php:294
+msgid "%s ago"
+msgstr "قبل %s"
+
+#: wp-includes/revision.php:34 wp-includes/js/dist/block-library.js:21790
+#: wp-includes/js/dist/edit-post.js:4890 wp-includes/js/dist/edit-post.js:6890
+#: wp-admin/includes/meta-boxes.php:703 wp-admin/includes/meta-boxes.php:1531
+#: wp-admin/options-reading.php:165
+msgid "Excerpt"
+msgstr "المقتطف"
+
+#: wp-includes/taxonomy.php:142 wp-admin/menu.php:84
+msgid "Link Categories"
+msgstr "تصنيفات الروابط"
+
+#: wp-includes/taxonomy.php:147
+msgid "Edit Link Category"
+msgstr "تحرير تصنيف الرابط"
+
+#: wp-includes/js/dist/block-editor.js:44672
+#: wp-includes/js/dist/block-editor.js:47789
+#: wp-admin/includes/dashboard.php:1375 wp-admin/setup-config.php:250
+msgid "Submit"
+msgstr "إرسال"
+
+#: wp-includes/widgets/class-wp-widget-rss.php:35
+#: wp-includes/widgets/class-wp-widget-rss.php:97
+#: wp-admin/includes/import.php:214
+msgid "RSS"
+msgstr "RSS"
+
+#: wp-includes/widgets/class-wp-widget-recent-comments.php:31
+#: wp-includes/widgets/class-wp-widget-recent-comments.php:86
+#: wp-admin/includes/dashboard.php:1084 wp-admin/includes/upgrade.php:419
+msgid "Recent Comments"
+msgstr "أحدث التعليقات"
+
+#. translators: accessibility text for the content landmark region.
+#: wp-includes/revision.php:33 wp-includes/js/dist/block-editor.js:11651
+#: wp-includes/js/dist/edit-post.js:1621 wp-includes/js/dist/edit-site.js:2275
+#: wp-includes/js/dist/edit-widgets.js:1205 wp-admin/includes/dashboard.php:576
+#: wp-admin/index.php:104
+msgid "Content"
+msgstr "المحتوى "
+
+#: wp-includes/widgets/class-wp-widget-tag-cloud.php:49
+msgid "Tags"
+msgstr "وسوم"
+
+#: wp-includes/widgets/class-wp-widget-recent-comments.php:202
+msgid "Number of comments to show:"
+msgstr "عدد التعليقات المراد عرضها:"
+
+#: wp-includes/widgets/class-wp-widget-rss.php:83
+#: wp-admin/includes/dashboard.php:1245
+msgid "Unknown Feed"
+msgstr "خلاصة غير معروفة"
+
+#: wp-includes/widgets.php:185 wp-admin/includes/file.php:19
+#: wp-admin/widgets-form.php:299
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: wp-login.php:1075 wp-admin/includes/class-wp-users-list-table.php:370
+#: wp-admin/includes/file.php:2350 wp-admin/install.php:118
+#: wp-admin/install.php:423 wp-admin/setup-config.php:220
+#: wp-admin/user-edit.php:411 wp-admin/user-new.php:514
+#: wp-admin/includes/class-wp-ms-users-list-table.php:197
+#: wp-admin/network/site-users.php:304 wp-admin/network/site-users.php:338
+#: wp-admin/network/user-new.php:129
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: wp-includes/widgets/class-wp-widget-links.php:29
+#: wp-includes/js/dist/edit-site.js:8417 wp-includes/js/dist/edit-site.js:8446
+#: wp-includes/js/dist/edit-site.js:8638 wp-includes/js/dist/edit-site.js:9000
+#: wp-admin/includes/class-wp-terms-list-table.php:200
+#: wp-admin/link-manager.php:50 wp-admin/menu.php:80
+msgid "Links"
+msgstr "روابط"
+
+#. translators: %s: Name of the block author.
+#. translators: %s: Plugin author name.
+#. translators: %s: Theme author name.
+#. translators: %s: Plugin author.
+#. translators: %s: Theme author.
+#. translators: %s: Theme author link.
+#: wp-includes/js/dist/block-directory.js:1565
+#: wp-admin/includes/class-wp-debug-data.php:946
+#: wp-admin/includes/class-wp-debug-data.php:993
+#: wp-admin/includes/class-wp-debug-data.php:1316
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:536
+#: wp-admin/includes/class-wp-plugins-list-table.php:1062
+#: wp-admin/includes/class-wp-theme-install-list-table.php:369
+#: wp-admin/includes/class-wp-theme-install-list-table.php:501
+#: wp-admin/includes/class-wp-themes-list-table.php:263
+#: wp-admin/includes/theme.php:845 wp-admin/theme-install.php:354
+#: wp-admin/theme-install.php:455 wp-admin/themes.php:529
+#: wp-admin/themes.php:888 wp-admin/themes.php:969
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:720
+msgid "By %s"
+msgstr "بواسطة %s"
+
+#: wp-includes/user.php:3289 wp-admin/includes/user.php:146
+msgid "<strong>Error</strong>: Please enter a username."
+msgstr "<strong>خطأ</strong>: يرجى التأكد من كتابة اسم المستخدم."
+
+#: wp-login.php:962
+msgid "Strength indicator"
+msgstr "مؤشر القوة"
+
+#: wp-signup.php:206 wp-admin/includes/class-wp-debug-data.php:102
+#: wp-admin/includes/class-wp-debug-data.php:107
+#: wp-admin/includes/class-wp-debug-data.php:112
+#: wp-admin/includes/class-wp-debug-data.php:117
+#: wp-admin/includes/class-wp-debug-data.php:797
+#: wp-admin/includes/class-wp-debug-data.php:806
+#: wp-admin/includes/class-wp-debug-data.php:815
+#: wp-admin/includes/class-wp-links-list-table.php:265
+msgid "Yes"
+msgstr "نعم"
+
+#: wp-includes/taxonomy.php:196 wp-includes/js/dist/blocks.js:5559
+#: wp-includes/js/dist/edit-site.js:8705 wp-includes/js/dist/edit-site.js:8759
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:331
+msgid "Theme"
+msgstr "قالب"
+
+#: wp-includes/widgets/class-wp-nav-menu-widget.php:180
+#: wp-includes/widgets/class-wp-widget-archives.php:220
+#: wp-includes/widgets/class-wp-widget-calendar.php:100
+#: wp-includes/widgets/class-wp-widget-categories.php:188
+#: wp-includes/widgets/class-wp-widget-custom-html.php:266
+#: wp-includes/widgets/class-wp-widget-media.php:417
+#: wp-includes/widgets/class-wp-widget-meta.php:138
+#: wp-includes/widgets/class-wp-widget-pages.php:164
+#: wp-includes/widgets/class-wp-widget-recent-comments.php:197
+#: wp-includes/widgets/class-wp-widget-recent-posts.php:169
+#: wp-includes/widgets/class-wp-widget-search.php:72
+#: wp-includes/widgets/class-wp-widget-tag-cloud.php:151
+#: wp-includes/widgets/class-wp-widget-text.php:492
+#: wp-includes/widgets/class-wp-widget-text.php:525
+msgid "Title:"
+msgstr "العنوان:"
+
+#. translators: 'Label. Used to signify a layout property (eg: margin, padding)
+#. will apply uniformly to all screensizes.'
+#: wp-includes/js/dist/block-editor.js:47437
+#: wp-includes/js/dist/components.js:50964
+#: wp-includes/js/dist/components.js:69906
+#: wp-includes/js/dist/components.js:69923 wp-admin/export.php:189
+#: wp-admin/export.php:201 wp-admin/export.php:226 wp-admin/export.php:248
+#: wp-admin/export.php:273 wp-admin/includes/class-wp-users-list-table.php:190
+msgid "All"
+msgstr "الكل"
+
+#: wp-includes/theme-compat/comments.php:72
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: wp-includes/theme-templates.php:196
+msgid "Skip to content"
+msgstr "تخطى إلى المحتوى"
+
+#: wp-includes/theme-compat/sidebar.php:138
+#: wp-includes/widgets/class-wp-widget-meta.php:33
+#: wp-includes/widgets/class-wp-widget-meta.php:46
+msgid "Meta"
+msgstr "منوعات"
+
+#: wp-includes/widgets/class-wp-widget-links.php:156
+#: wp-includes/widgets/class-wp-widget-pages.php:169
+msgid "Sort by:"
+msgstr "ترتيب حسب:"
+
+#: wp-includes/widgets/class-wp-widget-pages.php:171
+msgid "Page title"
+msgstr "عنوان الصفحة"
+
+#: wp-includes/widgets/class-wp-widget-pages.php:172
+msgid "Page order"
+msgstr "ترتيب الصفحة"
+
+#: wp-includes/widgets/class-wp-widget-pages.php:173
+msgid "Page ID"
+msgstr "رقم صفحة (ID)"
+
+#: wp-includes/widgets/class-wp-widget-pages.php:178
+msgid "Exclude:"
+msgstr "استثناء:"
+
+#: wp-includes/widgets/class-wp-widget-pages.php:181
+msgid "Page IDs, separated by commas."
+msgstr "أرقام ID للصفحات، مفصولة بفاصلة."
+
+#: wp-includes/widgets/class-wp-widget-links.php:26
+msgid "Your blogroll"
+msgstr "روابطك"
+
+#: wp-includes/widgets/class-wp-widget-links.php:167
+msgid "Show Link Image"
+msgstr "إظهار صورة الرابط"
+
+#: wp-includes/widgets/class-wp-widget-links.php:171
+msgid "Show Link Name"
+msgstr "إظهار اسم الرابط"
+
+#: wp-includes/widgets/class-wp-widget-links.php:175
+msgid "Show Link Description"
+msgstr "إظهار وصف للرابط"
+
+#: wp-includes/widgets/class-wp-widget-links.php:179
+msgid "Show Link Rating"
+msgstr "إظهار تقييم الرابط"
+
+#: wp-includes/widgets/class-wp-widget-archives.php:228
+#: wp-includes/widgets/class-wp-widget-categories.php:198
+#: wp-includes/js/dist/block-library.js:1736
+#: wp-includes/js/dist/block-library.js:5323
+#: wp-includes/js/dist/block-library.js:44419
+msgid "Show post counts"
+msgstr "عرض عدد المقالات"
+
+#: wp-includes/widgets/class-wp-widget-calendar.php:38
+#: wp-includes/js/dist/block-library.js:5086
+msgid "Calendar"
+msgstr "تقويم"
+
+#: wp-includes/widgets/class-wp-widget-text.php:43
+#: wp-includes/js/dist/block-editor.js:34086
+#: wp-includes/js/dist/block-library.js:26444
+#: wp-includes/js/dist/blocks.js:5547 wp-includes/js/dist/edit-site.js:8412
+#: wp-includes/js/dist/edit-site.js:8442 wp-includes/js/dist/edit-site.js:8614
+#: wp-includes/js/dist/edit-site.js:8949
+#: wp-includes/js/dist/format-library.js:1438
+msgid "Text"
+msgstr "نص"
+
+#: wp-includes/widgets/class-wp-widget-text.php:507
+msgid "Automatically add paragraphs"
+msgstr "إضافة الفقرات آلياً."
+
+#: wp-includes/widgets/class-wp-widget-categories.php:202
+#: wp-includes/js/dist/block-library.js:5331
+msgid "Show hierarchy"
+msgstr "عرض الترتيب الهرمي"
+
+#: wp-includes/widgets/class-wp-widget-recent-posts.php:31
+#: wp-includes/widgets/class-wp-widget-recent-posts.php:49
+#: wp-admin/includes/upgrade.php:418
+msgid "Recent Posts"
+msgstr "أحدث المقالات"
+
+#: wp-includes/widgets/class-wp-widget-recent-posts.php:174
+msgid "Number of posts to show:"
+msgstr "عدد المقالات:"
+
+#. translators: Comments widget. 1: Comment author, 2: Post link.
+#: wp-includes/widgets/class-wp-widget-recent-comments.php:150
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr "%1$s على %2$s"
+
+#: wp-includes/widgets.php:1619 wp-includes/js/dist/edit-post.js:6008
+#: wp-includes/js/dist/editor.js:5351
+msgid "Untitled"
+msgstr "بدون عنوان"
+
+#: wp-includes/widgets.php:1710
+msgid "Enter the RSS feed URL here:"
+msgstr "أدخل رابط خلاصة RSS هنا:"
+
+#: wp-includes/widgets.php:1713
+msgid "Give the feed a title (optional):"
+msgstr "اسم الخلاصة (اختياري):"
+
+#: wp-includes/widgets.php:1716
+msgid "How many items would you like to display?"
+msgstr "كم عدد العناصر التي ترغب في عرضها؟"
+
+#: wp-includes/widgets.php:1728
+msgid "Display item content?"
+msgstr "عرض محتوى العنصر؟"
+
+#: wp-includes/widgets.php:1731
+msgid "Display item author if available?"
+msgstr "عرض كاتب العنصر إذا كان متوفرا؟"
+
+#: wp-includes/widgets.php:1734
+msgid "Display item date?"
+msgstr "عرض تاريخ العنصر؟"
+
+#: wp-includes/widgets/class-wp-widget-tag-cloud.php:30
+msgid "Tag Cloud"
+msgstr "معرض الوسوم"
+
+#: wp-includes/script-loader.php:1013
+msgid "Mute"
+msgstr "صامت"
+
+#: wp-includes/user.php:2165
+msgid "Sorry, that email address is already used!"
+msgstr "المعذرة، عنوان البريد الإلكتروني هذا مستخدم مسبقاً!"
+
+#: wp-includes/revision.php:328
+msgid "Cannot create a revision of a revision"
+msgstr "لا يمكن عمل مراجعة لمراجعة"
+
+#: wp-includes/user.php:2084
+msgid "Cannot create a user with an empty login name."
+msgstr "لا يمكن إنشاء عضو بدون أن يكون لديه اسم مستخدم."
+
+#: wp-includes/user.php:2755
+msgid "AIM"
+msgstr "ماسنجر AIM"
+
+#: wp-includes/user.php:2756
+msgid "Yahoo IM"
+msgstr "ياهو ماسنجر"
+
+#: wp-includes/user.php:2757
+msgid "Jabber / Google Talk"
+msgstr "Jabber / Google Talk"
+
+#: wp-includes/script-loader.php:699
+msgid "Close all open tags"
+msgstr "إغلاق جميع الوسوم المفتوحة"
+
+#: wp-includes/script-loader.php:700
+msgid "close tags"
+msgstr "إغلاق الوسوم"
+
+#: wp-includes/script-loader.php:701
+msgid "Enter the URL"
+msgstr "أدخل الرابط"
+
+#: wp-includes/script-loader.php:702
+msgid "Enter the URL of the image"
+msgstr "أدخل رابط الصورة"
+
+#: wp-includes/script-loader.php:703
+msgid "Enter a description of the image"
+msgstr "أدخل وصف للصورة"
+
+#: wp-includes/script-loader.php:898
+msgid "Next &gt;"
+msgstr "التالي &gt;"
+
+#: wp-includes/script-loader.php:899
+msgid "&lt; Prev"
+msgstr "&lt; السابق"
+
+#: wp-includes/script-loader.php:901
+msgid "of"
+msgstr "من"
+
+#: wp-includes/script-loader.php:903
+msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
+msgstr "هذه الميزة تتطلب خاصية الإطارات المضمنة (inline frames). إما أن الخاصية معطلة أو أن المتصفح لا يدعم هذه الخاصية."
+
+#: wp-includes/script-loader.php:915
+msgid "You have attempted to queue too many files."
+msgstr "لقد حاولت رفع الكثير من الملفات"
+
+#: wp-includes/script-loader.php:918
+msgid "This file is empty. Please try another."
+msgstr "الملف فارغ، الرجاء تجربة ملف آخر"
+
+#: wp-includes/script-loader.php:923
+msgid "An error occurred in the upload. Please try again later."
+msgstr "حصل خطأ في عملية الرفع، الرجاء المحاولة مرة أخرى."
+
+#: wp-includes/script-loader.php:924
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "هناك مشكلة في الإعدادات، أرجو أن تتصل بمدير الخادم"
+
+#: wp-includes/script-loader.php:925
+msgid "You may only upload 1 file."
+msgstr "يسمح لك برفع ملف واحد فقط"
+
+#: wp-includes/script-loader.php:928 wp-admin/includes/ajax-actions.php:2489
+msgid "Upload failed."
+msgstr "الرفع فشل"
+
+#: wp-includes/script-loader.php:933
+msgid "IO error."
+msgstr "خطأ IO"
+
+#: wp-includes/script-loader.php:934
+msgid "Security error."
+msgstr "خطأ بالحماية"
+
+#: wp-includes/script-loader.php:936
+msgid "Upload stopped."
+msgstr "تم وقف الرفع"
+
+#: wp-includes/script-loader.php:938
+msgid "Crunching&hellip;"
+msgstr "لحظات من فضلك&hellip;"
+
+#: wp-includes/script-loader.php:939
+msgid "moved to the Trash."
+msgstr "تم النقل لسلة المُهملات."
+
+#: wp-includes/script-loader.php:1132
+msgctxt "password strength"
+msgid "Medium"
+msgstr "متوسط"
+
+#: wp-includes/taxonomy.php:934 wp-includes/taxonomy.php:3126
+#: wp-includes/taxonomy.php:4534
+msgid "Empty Term."
+msgstr "عنصر فارغ."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:191
+#: wp-admin/media-upload.php:39
+msgid "Invalid item ID."
+msgstr "معرّف العنصر غير صالح."
+
+#: wp-includes/taxonomy.php:2498
+msgid "Could not insert term into the database."
+msgstr "تعذر إدخال العنصر في قاعدة البيانات."
+
+#. translators: %s: Taxonomy term slug.
+#: wp-includes/taxonomy.php:3221
+msgid "The slug &#8220;%s&#8221; is already in use by another term."
+msgstr "العنوان اللطيف &#8220;%s&#8221; مستخدم مسبقاً بواسطة عنصر آخر."
+
+#: wp-includes/taxonomy.php:4757
+msgid "Invalid object ID."
+msgstr "مُعرّف (ID) الكائن غير صالح."
+
+#: wp-includes/user.php:137
+msgid "<strong>Error</strong>: The username field is empty."
+msgstr "<strong>خطأ</strong>: حقل اسم المستخدم فارغ."
+
+#: wp-includes/user.php:141 wp-includes/user.php:220
+msgid "<strong>Error</strong>: The password field is empty."
+msgstr "<strong>خطأ</strong>: حقل كلمة المرور فارغ."
+
+#: wp-includes/user.php:506
+msgid "<strong>Error</strong>: Your account has been marked as a spammer."
+msgstr "<strong>خطأ</strong>: موقعك مشتبه بكونه موقع مزعج (spammer)."
+
+#. translators: %d: Sidebar number.
+#: wp-includes/widgets.php:182 wp-includes/widgets.php:268
+msgid "Sidebar %d"
+msgstr "الشريط الجانبي %d"
+
+#. translators: 1: WordPress version number, 2: Minimum required MySQL version
+#. number.
+#: wp-includes/wp-db.php:3700
+msgid "<strong>Error</strong>: WordPress %1$s requires MySQL %2$s or higher"
+msgstr "<strong>خطأ</strong>: ووردبريس %1$s يتطلب MySQL %2$s أو أعلى"
+
+#: wp-login.php:152
+msgid "Powered by WordPress"
+msgstr "يعمل بواسطة ووردبريس"
+
+#: wp-includes/user.php:3016
+msgid "<strong>Error</strong>: Please enter a username or email address."
+msgstr "<strong>خطأ</strong>: يرجى إدخال اسم المستخدم أو البريد الإلكتروني."
+
+#: wp-includes/user.php:2861
+msgid "Password reset is not allowed for this user"
+msgstr "لا يسمح لك بإعادة كلمة المرور الى الحالة الأولى (reset)"
+
+#. translators: Password reset notification email subject. %s: Site title.
+#: wp-includes/user.php:3138
+msgid "[%s] Password Reset"
+msgstr "[%s] تغيير كلمة المرور"
+
+#: wp-includes/user.php:2924 wp-includes/user.php:2928
+#: wp-includes/user.php:2934 wp-includes/user.php:2960
+#: wp-includes/user.php:2969 wp-includes/user.php:2973
+#: wp-includes/user.php:2990
+msgid "Invalid key."
+msgstr "مفتاح غير صالح."
+
+#: wp-includes/user.php:3306
+msgid "<strong>Error</strong>: Please type your email address."
+msgstr "<strong>خطأ</strong>: يرجى كتابة عنوان بريدك الإلكتروني."
+
+#: wp-includes/user.php:3308 wp-includes/user.php:3606
+#: wp-admin/includes/user.php:203
+msgid "<strong>Error</strong>: The email address is not correct."
+msgstr "<strong>خطأ</strong>: البريد الإلكتروني غير صحيح."
+
+#: wp-login.php:820
+msgid "Lost Password"
+msgstr "استعادة كلمة المرور"
+
+#: wp-login.php:847
+msgid "Get New Password"
+msgstr "احصل على كلمة مرور جديدة"
+
+#: wp-login.php:1070
+msgid "Registration Form"
+msgstr "نموذج التسجيل"
+
+#: wp-login.php:1070
+msgid "Register For This Site"
+msgstr "التسجيل في هذا الموقع"
+
+#: wp-includes/user.php:183 wp-includes/user.php:255 wp-login.php:1105
+#: wp-login.php:1468
+msgid "Lost your password?"
+msgstr "هل فقدت كلمة مرورك؟"
+
+#: wp-login.php:1261
+msgid "You have logged in successfully."
+msgstr "تم تسجيل الدخول بنجاح."
+
+#: wp-login.php:1342
+msgid "You are now logged out."
+msgstr "تم تسجيل الخروج."
+
+#: wp-mail.php:42
+msgid "Slow down cowboy, no need to check for new mails so often!"
+msgstr "رجاءً التريّث وعدم الفحص هل وصلت رسائل جديدة بهذه الوتيرة العالية."
+
+#: wp-mail.php:65
+msgid "There does not seem to be any new mail."
+msgstr "يبدو أنه لا يوجد أي رسالة جديدة."
+
+#. translators: %s: POP3 error.
+#: wp-mail.php:254
+msgid "Oops: %s"
+msgstr "أوووووبس: %s"
+
+#: wp-signup.php:201
+msgid "Privacy:"
+msgstr "الخصوصية:"
+
+#: wp-signup.php:264
+msgid "(Must be at least 4 characters, letters and numbers only.)"
+msgstr "(يجب أن يتكوّن من 4 خانات على الأقل. يسمح باستخدام حروف وأرقام فقط.)"
+
+#: wp-signup.php:267
+msgid "Email&nbsp;Address:"
+msgstr "عنوان البريد الإلكتروني:"
+
+#: wp-signup.php:347
+msgid "There was a problem, please correct the form below and try again."
+msgstr "حصل خطأ ما، فضلاً قم بتصحيح البيانات بالأسفل وحاول مجدداً."
+
+#. translators: %s: Name of the network.
+#: wp-signup.php:601
+msgid "Get your own %s account in seconds"
+msgstr "أحصل خلال ثواني على حساب جديد لدى [%s]."
+
+#: wp-signup.php:622
+msgid "Just a username, please."
+msgstr "فقط اسم مستخدم. (بدون موقع)"
+
+#. translators: %s: Username.
+#: wp-signup.php:674
+msgid "%s is your new username"
+msgstr "%s هو اسم مستخدمك الجديد"
+
+#: wp-signup.php:677
+msgid "But, before you can start using your new username, <strong>you must activate it</strong>."
+msgstr "لكن قبل اعتماد اسم المستخدم الجديد، <strong>يجب أن تقوم بتفعيله</strong>."
+
+#: wp-signup.php:684
+msgid "If you do not activate your username within two days, you will have to sign up again."
+msgstr "إذا لم تقم بتفعيل اسم المستخدم الخاص بك خلال يومين، سيتوجب عليك التسجيل من جديد."
+
+#: wp-signup.php:750
+msgid "Sign up"
+msgstr "تسجيل"
+
+#: wp-signup.php:843
+msgid "Still waiting for your email?"
+msgstr "لا زلت تنتظر وصول الرسالة للبريد الإلكتروني؟"
+
+#: wp-signup.php:941
+msgid "Registration has been disabled."
+msgstr "تم إيقاف التسجيل."
+
+#: wp-signup.php:956
+msgid "User registration has been disabled."
+msgstr "تم تعطيل التسجيل في الموقع."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:785
+msgid "Sorry, you are not allowed to update posts as this user."
+msgstr "عذرًا، غير مسموح لك بتحديث المقالات بهذا المستخدم."
+
+#. translators: 1: Database error message, 2: SQL query, 3: Name of the calling
+#. function.
+#: wp-includes/wp-db.php:1576
+msgid "WordPress database error %1$s for query %2$s made by %3$s"
+msgstr "خطأ %1$s في قاعدة بيانات ووردبريس  للاستعلام %2$s القادم من %3$s"
+
+#. translators: 1: Database error message, 2: SQL query.
+#: wp-includes/wp-db.php:1579
+msgid "WordPress database error %1$s for query %2$s"
+msgstr "خطأ %1$s في قاعدة بيانات ووردبريس للاستعلام %2$s"
+
+#: wp-includes/widgets/class-wp-widget-tag-cloud.php:183
+msgid "Taxonomy:"
+msgstr "الفئة:"
+
+#: wp-includes/taxonomy.php:117
+#: wp-includes/widgets/class-wp-nav-menu-widget.php:30
+msgid "Navigation Menu"
+msgstr "القوائم"
+
+#: wp-includes/widgets/class-wp-nav-menu-widget.php:184
+msgid "Select Menu:"
+msgstr "اختر قائمة:"
+
+#: wp-includes/script-loader.php:935
+msgid "File canceled."
+msgstr "تم إلغاء الملف."
+
+#: wp-signup.php:108
+msgid "Site Name:"
+msgstr "اسم الموقع:"
+
+#: wp-signup.php:110
+msgid "Site Domain:"
+msgstr "نطاق (دومين) الموقع:"
+
+#: wp-signup.php:129
+msgid "sitename"
+msgstr "sitename"
+
+#: wp-signup.php:144
+msgid "Site Title:"
+msgstr "عنوان الموقع:"
+
+#. translators: %s: Network title.
+#: wp-signup.php:344
+msgid "Get <em>another</em> %s site in seconds"
+msgstr "أحصل على <em>موقع آخر</em> في %s خلال ثواني"
+
+#: wp-signup.php:365
+msgid "Sites you are already a member of:"
+msgstr "حالياً، أنت عضو في المواقع التالية:"
+
+#: wp-signup.php:376
+msgid "If you are not going to use a great site domain, leave it for a new user. Now have at it!"
+msgstr "إذا كنت لن تستخدم نطاق موقع رائع فدعه لعضو جديد. الآن تفضل!"
+
+#: wp-signup.php:391
+msgid "Create Site"
+msgstr "إنشاء موقع"
+
+#. translators: %s: Site title.
+#: wp-signup.php:524
+msgid "The site %s is yours."
+msgstr "تمّ إنشاء موقعك الجديد - %s"
+
+#: wp-signup.php:619
+msgid "Gimme a site!"
+msgstr "أريد موقعاً!"
+
+#. translators: %s: Site address.
+#: wp-signup.php:831
+msgid "Congratulations! Your new site, %s, is almost ready."
+msgstr "هنيئا! موقعك الجديد، %s، أصبح تقريباً جاهزا."
+
+#: wp-signup.php:835
+msgid "But, before you can start using your site, <strong>you must activate it</strong>."
+msgstr "ولكن قبل البدء في استخدام موقعك، <strong>عليك أن تقوم بتفعيله</strong>."
+
+#: wp-signup.php:842
+msgid "If you do not activate your site within two days, you will have to sign up again."
+msgstr "إذا لم تقم بتفعيل موقعك خلال يومين، سيتوجب عليك التسجيل مرة أخرى."
+
+#: wp-signup.php:963
+msgid "Site registration has been disabled."
+msgstr "تم تعطيل التسجيل في الموقع."
+
+#. translators: %d: Number of available WordPress updates.
+#: wp-includes/update.php:816
+msgid "%d WordPress Update"
+msgstr "تحديث ووردبريس %d"
+
+#. translators: %d: Number of available plugin updates.
+#: wp-includes/update.php:821
+msgid "%d Plugin Update"
+msgid_plural "%d Plugin Updates"
+msgstr[0] "لا توجد إضافات تحتاج إلى تحديث"
+msgstr[1] "إضافة واحدة تحتاج إلى تحديث"
+msgstr[2] "%d من الإضافات تحتاج إلى تحديث"
+msgstr[3] "%d إضافات تحتاج إلى تحديث"
+msgstr[4] "%d إضافة تحتاج إلى تحديث"
+msgstr[5] "%d إضافة تحتاج إلى تحديث"
+
+#. translators: %d: Number of available theme updates.
+#: wp-includes/update.php:826
+msgid "%d Theme Update"
+msgid_plural "%d Theme Updates"
+msgstr[0] "لا توجد قوالب تحتاج إلى تحديث"
+msgstr[1] "قالب واحد يحتاج إلى تحديث"
+msgstr[2] "%d من القوالب تحتاج إلى تحديث"
+msgstr[3] "%d قوالب تحتاج إلى تحديث"
+msgstr[4] "%d قالب تحتاج إلى تحديث"
+msgstr[5] "%d قالب تحتاج إلى تحديث"
+
+#. translators: %s: URL to create a new menu.
+#: wp-includes/widgets/class-wp-nav-menu-widget.php:175
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "حتى الآن لم تقم بانشاء قوائم. <a href=\"%s\">إنشاء</a>."
+
+#. translators: %s: Site title.
+#: wp-links-opml.php:33
+msgid "Links for %s"
+msgstr "روابط %s"
+
+#: wp-mail.php:15 wp-mail.php:21
+msgid "This action has been disabled by the administrator."
+msgstr "تم تعطيل هذه العملية بواسطة المدير."
+
+#: wp-signup.php:138
+msgid "Must be at least 4 characters, letters and numbers only. It cannot be changed, so choose carefully!"
+msgstr "يجب أن يتكوّن من 4 خانات على الأقل، يسمح باستخدام حروف وأرقام فقط. لا يمكن التغيير لاحقاً، لذلك كن حذراً!"
+
+#. translators: %s: Current user's display name.
+#: wp-signup.php:354
+msgid "Welcome back, %s. By filling out the form below, you can <strong>add another site to your account</strong>. There is no limit to the number of sites you can have, so create to your heart&#8217;s content, but write responsibly!"
+msgstr "مرحباً بعودتك، %s. يمكنك ملء الحقول أدناه <strong>لإضافة موقع جديد إلى حسابك</strong>. لا يوجد تحديد على عدد المواقع التي يمكنك إنشاؤها، نرجو ان تستخدم المواقع بما يفيدك ويفيد غيرك."
+
+#. translators: %s: Login URL.
+#: wp-signup.php:945
+msgid "You must first <a href=\"%s\">log in</a>, and then you can create a new site."
+msgstr "يتوجّب عليك بدايةً <a href=\"%s\">تسجيل الدخول</a>، وبعدها ستتمكّن من إنشاء موقع جديد."
+
+#: wp-signup.php:985
+msgid "You are logged in already. No need to register again!"
+msgstr "أنت متصّل! لا توجد حاجة للتسجيل مرة أخرى."
+
+#: wp-includes/taxonomy.php:2474
+msgid "A term with the name provided already exists with this parent."
+msgstr "هناك عنصر بنفس الاسم موجود مسبقًا مع هذا الأب."
+
+#. translators: %s: Template name.
+#: wp-includes/theme-compat/comments.php:11
+#: wp-includes/theme-compat/footer.php:11
+#: wp-includes/theme-compat/header.php:11
+#: wp-includes/theme-compat/sidebar.php:11
+msgid "Theme without %s"
+msgstr "القالب بدون %s"
+
+#. translators: %s: Template name.
+#: wp-includes/theme-compat/comments.php:15
+#: wp-includes/theme-compat/footer.php:15
+#: wp-includes/theme-compat/header.php:15
+#: wp-includes/theme-compat/sidebar.php:15
+msgid "Please include a %s template in your theme."
+msgstr "يرجى تضمين الملف %s في قالبك."
+
+#: wp-includes/user.php:3291 wp-admin/includes/user.php:185
+msgid "<strong>Error</strong>: This username is invalid because it uses illegal characters. Please enter a valid username."
+msgstr "<strong>خطأ</strong>: اسم المستخدم غير صحيح لأنه يحتوي على رموز أو حروف ممنوعة. يرجى اختيار اسم مستخدم آخر."
+
+#: wp-signup.php:274
+msgid "Your registration email is sent to this address. (Double-check your email address before continuing.)"
+msgstr "تأكيد تسجيلك للبريد الإلكتروني سيتم إرساله إلى هذا العنوان. (تحقّق جيداً من صحة عنوان بريدك الإلكتروني قبل المتابعة.)"
+
+#: wp-signup.php:847
+msgid "Wait a little longer. Sometimes delivery of email can be delayed by processes outside of our control."
+msgstr "انتظر قليلاً، أحياناً عملية إيصال الرسائل يمكن أن تتأخر لأسباب خارجة عن سيطرتنا."
+
+#: wp-signup.php:848
+msgid "Check the junk or spam folder of your email client. Sometime emails wind up there by mistake."
+msgstr "افحص صندوق الرسائل المزعجة (سبام) في بريدك الإلكتروني، أحياناً تصل الرسائل إلى هناك عن طريق الخطأ."
+
+#: wp-signup.php:983
+msgid "Sorry, new registrations are not allowed at this time."
+msgstr "عذرًا، غير مسموح بالتسجيل الجديد حاليًا."
+
+#: wp-includes/theme-compat/comments.php:24
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "هذه المقالة محمية بكلمة مرور. لمشاهدة التعليقات، قم بكتابة كلمة المرور."
+
+#. translators: 1: Blog name, 2: WordPress
+#: wp-includes/theme-compat/footer.php:26
+msgid "%1$s is proudly powered by %2$s"
+msgstr "%1$s بدعم من %2$s"
+
+#. translators: %s: Category name.
+#: wp-includes/theme-compat/sidebar.php:46
+msgid "You are currently browsing the archives for the %s category."
+msgstr "أنت تتصفح الآن آرشيف التصنيف %s."
+
+#: wp-includes/theme-compat/sidebar.php:59
+msgid "l, F jS, Y"
+msgstr "j F, Y"
+
+#: wp-includes/theme-compat/sidebar.php:71
+msgid "F, Y"
+msgstr "j F, Y"
+
+#. translators: 1: Site link, 2: Search query.
+#: wp-includes/theme-compat/sidebar.php:93
+msgid "You have searched the %1$s blog archives for <strong>&#8216;%2$s&#8217;</strong>. If you are unable to find anything in these search results, you can try one of these links."
+msgstr "بحثت في أرشيفات %1$s عن <strong>&#8216;%2$s&#8217;</strong>. إذا لم تجد نتائج بحث مناسبة حاول أن تستخدم احد الروابط التالية."
+
+#: wp-includes/user.php:3864 wp-includes/js/dist/block-library.js:1999
+#: wp-includes/js/dist/core-data.js:2101
+msgid "User"
+msgstr "مستخدم"
+
+#: wp-includes/taxonomy.php:143
+msgid "Link Category"
+msgstr "تصنيف الرابط"
+
+#: wp-includes/taxonomy.php:144
+msgid "Search Link Categories"
+msgstr "بحث في تصنيفات الروابط"
+
+#: wp-includes/taxonomy.php:146
+msgid "All Link Categories"
+msgstr "كافة تصنيفات الروابط"
+
+#: wp-includes/taxonomy.php:148
+msgid "Update Link Category"
+msgstr "تحديث تصنيف الرابط"
+
+#: wp-includes/taxonomy.php:149
+msgid "Add New Link Category"
+msgstr "أضف تصنيف رابط جديد"
+
+#: wp-includes/taxonomy.php:150
+msgid "New Link Category Name"
+msgstr "اسم تصنيف الرابط الجديد"
+
+#: wp-includes/user.php:3117
+msgid "Someone has requested a password reset for the following account:"
+msgstr "طلب أحد ما إعادة تعيين كلمة المرور للحساب التالي:"
+
+#: wp-includes/user.php:3122
+msgid "If this was a mistake, ignore this email and nothing will happen."
+msgstr "إذا كان هذا خطأً، فتجاهل هذه الرسالة ولن يحدث شئ."
+
+#: wp-includes/user.php:3123
+msgid "To reset your password, visit the following address:"
+msgstr "لإستعادة كلمة المرور، قم بزيارة العنوان التالي:"
+
+#: wp-login.php:937 wp-admin/user-edit.php:680
+msgid "Password Reset"
+msgstr "استعادة كلمة المرور"
+
+#: wp-login.php:937
+msgid "Your password has been reset."
+msgstr "تم استعادة كلمة المرور."
+
+#: wp-login.php:945
+msgid "Reset Password"
+msgstr "استعادة كلمة المرور"
+
+#: wp-login.php:953
+msgid "New password"
+msgstr "كلمة مرور جديدة"
+
+#: wp-login.php:971
+msgid "Confirm new password"
+msgstr "تأكيد كلمة المرور الجديدة"
+
+#: wp-includes/widgets/class-wp-widget-archives.php:225
+#: wp-includes/widgets/class-wp-widget-categories.php:194
+#: wp-includes/js/dist/block-library.js:1730
+#: wp-includes/js/dist/block-library.js:5319
+msgid "Display as dropdown"
+msgstr "عرض كقائمة منسدلة"
+
+#: wp-signup.php:131
+msgid "domain"
+msgstr "نطاق"
+
+#. translators: %s: Site address.
+#: wp-signup.php:137
+msgid "Your address will be %s."
+msgstr "عنوانك سيكون %s."
+
+#: wp-includes/taxonomy.php:178
+#: wp-admin/includes/class-wp-posts-list-table.php:1964
+#: wp-admin/includes/meta-boxes.php:1490
+msgctxt "post format"
+msgid "Format"
+msgstr "بنية المقالة"
+
+#: wp-includes/script-loader.php:920
+msgid "This file is not an image. Please try another."
+msgstr "هذا الملف ليس بصورة. الرجاء المحاولة مرة أخرى."
+
+#: wp-includes/script-loader.php:922
+msgid "This is larger than the maximum size. Please try another."
+msgstr "الحجم تجاوز الحد الأقصى المسموح. يرجى المحاولة مع ملف آخر."
+
+#: wp-includes/script-loader.php:921
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "تمّ تجاوز الذاكرة. يرجى المحاولة من جديد مع ملف أصغر."
+
+#. translators: %s: File name.
+#: wp-includes/script-loader.php:917
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "تجاوز %s حجم الرفع الأقصى في هذا الموقع."
+
+#: wp-includes/widgets/class-wp-widget-links.php:149
+msgctxt "links widget"
+msgid "All Links"
+msgstr "كافة الروابط"
+
+#. translators: 1: Opening link tag, 2: Closing link tag.
+#: wp-includes/script-loader.php:930
+msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
+msgstr "يُرجى محاولة رفع الملف بواسطة %1$sأداة الرفع من المتصفح%2$s."
+
+#. translators: %s: File name.
+#. translators: %s: Name of the file that failed to upload.
+#: wp-includes/script-loader.php:941 wp-admin/async-upload.php:124
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "&#8220;%s&#8221; فشلت عملية الرفع."
+
+#. translators: %s: File name.
+#: wp-includes/script-loader.php:932
+msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
+msgstr "%s يتجاوز حجم الرفع الأقصى لأداة الرفع متعددة الملفات عند استخدامها في متصفحك."
+
+#. translators: 1: Link to new site, 2: Login URL, 3: Username.
+#: wp-signup.php:531
+msgid "%1$s is your new site. <a href=\"%2$s\">Log in</a> as &#8220;%3$s&#8221; using your existing password."
+msgstr "أصبح %1$s هو موقعك الجديد. يمكنك <a href=\"%2$s\">تسجيل الدخول</a> باسم &#8221;%3$s&#8220; باستخدام كلمة المرور الموجودة لديك."
+
+#. translators: %s: wp-config.php
+#: wp-load.php:101
+msgid "You can create a %s file through a web interface, but this doesn't work for all server setups. The safest way is to manually create the file."
+msgstr "يمكنك إنشاء الملف %s مباشرةً من خلال واجهة ويب، لكن هذه الطريقة لا تعمل مع جميع إعدادات الخوادم، الطريقة الأكثر أماناُ هي إنشاء الملف يدوياً."
+
+#: wp-load.php:104
+msgid "Create a Configuration File"
+msgstr "إنشاء ملف الإعدادات"
+
+#: wp-signup.php:202
+msgid "Allow search engines to index this site."
+msgstr "السماح لمحركات البحث بفهرسة هذا الموقع."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:296
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1027
+#: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:484
+msgid "The post cannot be deleted."
+msgstr "لا يمكن حذف المقالة."
+
+#. translators: 'navigation' as in website navigation.
+#: wp-includes/js/dist/block-library.js:24827
+#: wp-includes/js/dist/block-library.js:25011
+#: wp-includes/js/dist/block-library.js:25382 wp-admin/index.php:57
+msgid "Navigation"
+msgstr "التنقّل"
+
+#: wp-includes/widgets/class-wp-widget-links.php:158
+#: wp-includes/js/dist/block-library.js:28093
+#: wp-includes/js/dist/block-library.js:29250
+msgid "Link title"
+msgstr "عنوان الرابط"
+
+#: wp-includes/widgets/class-wp-widget-links.php:159
+msgid "Link rating"
+msgstr "تقييم الرابط"
+
+#: wp-includes/widgets/class-wp-widget-links.php:160
+msgid "Link ID"
+msgstr "معرف الرابط (ID)"
+
+#: wp-includes/widgets/class-wp-widget-links.php:183
+msgid "Number of links to show:"
+msgstr "عدد الروابط التي ستُعرض:"
+
+#: wp-includes/widgets/class-wp-widget-links.php:147
+msgid "Select Link Category:"
+msgstr "اختر تصنيف الرابط:"
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:194
+#: wp-admin/edit-tags.php:23
+msgid "Sorry, you are not allowed to edit terms in this taxonomy."
+msgstr "عذرًا، غير مسموح لك بتحرير العناصر في هذه الفئة."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:99
+#: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:166
+#: wp-admin/edit-tags.php:29
+msgid "Sorry, you are not allowed to manage terms in this taxonomy."
+msgstr "عذرًا، غير مسموح لك بإدارة عناصر هذه الفئة."
+
+#: wp-includes/js/dist/block-editor.js:44961
+#: wp-includes/js/dist/block-editor.js:45519
+#: wp-includes/js/dist/block-editor.js:45532
+#: wp-includes/js/dist/block-library.js:46482
+#: wp-admin/includes/class-custom-background.php:339
+#: wp-admin/includes/class-custom-image-header.php:651
+#: wp-admin/includes/class-wp-theme-install-list-table.php:63
+#: wp-admin/includes/media.php:2258 wp-admin/includes/media.php:2260
+msgid "Upload"
+msgstr "رفع"
+
+#: wp-includes/script-loader.php:1238
+msgid "Allowed Files"
+msgstr "الملفات المسموح بها"
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:784
+#: wp-admin/comment.php:83
+msgid "Sorry, you are not allowed to edit this comment."
+msgstr "عذرًا، غير مسموح لك تحرير هذا التعليق."
+
+#: wp-includes/script-loader.php:704
+msgid "text direction"
+msgstr "اتجاه النص"
+
+#: wp-includes/script-loader.php:705
+msgid "Toggle Editor Text Direction"
+msgstr "تبديل اتجاه محرر النص"
+
+#: wp-includes/script-loader.php:1202
+msgid "Save &amp; Publish"
+msgstr "حفظ ونشر"
+
+#: wp-includes/script-loader.php:1214 wp-includes/js/dist/editor.js:10249
+#: wp-admin/js/widgets.js:130 wp-admin/js/widgets.js:575
+msgid "Saved"
+msgstr "تم الحفظ"
+
+#: wp-includes/widgets/class-wp-widget-recent-posts.php:180
+msgid "Display post date?"
+msgstr "عرض تاريخ المقالة؟"
+
+#: wp-includes/taxonomy.php:2845
+msgid "Could not insert term relationship into the database."
+msgstr "تعذر إدخال علاقة العنصر في قاعدة البيانات."
+
+#. translators: 1: User's first name, 2: Last name.
+#: wp-includes/user.php:2234
+msgctxt "Display name based on first name and last name"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: wp-includes/user.php:3294 wp-admin/includes/user.php:189
+msgid "<strong>Error</strong>: This username is already registered. Please choose another one."
+msgstr "<strong>خطأ</strong>: اسم المستخدم هذا مسجّل مسبقاً. المرجو اختيار آخر."
+
+#: wp-includes/widgets/class-wp-widget-media-audio.php:28
+#: wp-includes/js/dist/block-editor.js:45415 wp-includes/js/dist/editor.js:7106
+msgid "Audio"
+msgstr "صوت"
+
+#: wp-includes/widgets/class-wp-widget-media-video.php:28
+#: wp-includes/js/dist/block-editor.js:45419 wp-includes/js/dist/editor.js:7130
+msgid "Video"
+msgstr "فيديو"
+
+#: wp-includes/widgets/class-wp-widget-links.php:161
+msgctxt "Links widget"
+msgid "Random"
+msgstr "عشوائي"
+
+#. translators: %s: Email address.
+#: wp-signup.php:852
+msgid "Have you entered your email correctly? You have entered %s, if it&#8217;s incorrect, you will not receive your email."
+msgstr "هل قمت بإدخال البريد الإلكتروني الخاص بك بشكل صحيح؟ لقد قمت بإدخال %s، لو كان غير صحيح، لن تتلقى بريدا إلكترونيا."
+
+#. translators: %s: Site address.
+#: wp-signup.php:994
+msgid "The site you were looking for, %s, does not exist, but you can create it now!"
+msgstr "الموقع الذي كنت تبحث عنه، %s، غير موجود، لكن يمكنك إنشاءه الآن!"
+
+#. translators: %s: Admin email address.
+#: wp-includes/user.php:3363
+msgid "<strong>Error</strong>: Could not register you&hellip; please contact the <a href=\"mailto:%s\">site admin</a>!"
+msgstr "<strong>خطأ</strong>: لا يمكن تسجيلك&hellip; يرجى التواصل مع <a href=\"mailto:%s\">مسؤول الموقع</a>!"
+
+#: wp-includes/script-loader.php:1210
+#: wp-includes/js/dist/block-library.js:28062
+msgid "Invalid"
+msgstr "غير صالح"
+
+#: wp-includes/script-loader.php:1003
+msgid "Download File"
+msgstr "تحميل الملف"
+
+#: wp-includes/script-loader.php:1012
+msgid "Unmute"
+msgstr "إلغاء كتم الصوت"
+
+#: wp-includes/script-loader.php:1017
+msgid "Captions/Subtitles"
+msgstr "كلمات توضيحية/ترجمات"
+
+#: wp-includes/update.php:830
+msgid "Translation Updates"
+msgstr "تحديثات الترجمة"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: wp-includes/script-loader.php:1482
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: wp-includes/script-loader.php:1475
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: wp-includes/widgets/class-wp-widget-pages.php:27
+msgid "A list of your site&#8217;s Pages."
+msgstr "قائمة بصفحات موقعك."
+
+#: wp-includes/widgets/class-wp-widget-search.php:27
+msgid "A search form for your site."
+msgstr "نموذج بحث لموقعك."
+
+#: wp-includes/widgets/class-wp-widget-archives.php:27
+msgid "A monthly archive of your site&#8217;s Posts."
+msgstr "أرشيف شهري لمقالات موقعك."
+
+#: wp-includes/widgets/class-wp-widget-meta.php:29
+msgid "Login, RSS, &amp; WordPress.org links."
+msgstr "روابط تسجيل الدخول، RSS، و WordPress.org."
+
+#: wp-includes/widgets/class-wp-widget-categories.php:27
+msgid "A list or dropdown of categories."
+msgstr "قائمة منسدلة بالتصنيفات."
+
+#: wp-includes/widgets/class-wp-widget-recent-posts.php:27
+msgid "Your site&#8217;s most recent Posts."
+msgstr "أحدث مقالات موقعك."
+
+#: wp-includes/widgets/class-wp-widget-recent-comments.php:27
+msgid "Your site&#8217;s most recent comments."
+msgstr "أحدث تعليقات موقعك."
+
+#: wp-includes/widgets/class-wp-widget-rss.php:26
+msgid "Entries from any RSS or Atom feed."
+msgstr "مقالات من أي خلاصة RSS أو Atom."
+
+#: wp-includes/widgets/class-wp-widget-tag-cloud.php:26
+msgid "A cloud of your most used tags."
+msgstr "سحابة من وسومك الأكثر استخدامًا."
+
+#: wp-login.php:370 wp-admin/includes/class-wp-users-list-table.php:315
+msgid "Change"
+msgstr "تغيير"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Block Settings Sidebar tab.
+#: wp-includes/widgets/class-wp-widget-block.php:45
+#: wp-includes/js/dist/edit-post.js:6360 wp-includes/js/dist/edit-post.js:6379
+#: wp-includes/js/dist/edit-post.js:6381 wp-includes/js/dist/edit-site.js:9744
+#: wp-includes/js/dist/edit-site.js:9759 wp-includes/js/dist/edit-site.js:9761
+#: wp-includes/js/dist/edit-widgets.js:3199
+msgid "Block"
+msgstr "المكوّن"
+
+#: wp-includes/script-loader.php:1036
+msgid "Finnish"
+msgstr "الفنلندية"
+
+#: wp-includes/js/dist/block-editor.js:47651
+#: wp-includes/js/dist/block-editor.js:47657
+#: wp-includes/js/dist/block-library.js:24939
+#: wp-includes/js/dist/customize-widgets.js:1212
+#: wp-includes/js/dist/edit-post.js:3408 wp-includes/js/dist/edit-site.js:5385
+#: wp-includes/js/dist/edit-widgets.js:3736 wp-admin/menu.php:345
+#: wp-admin/tools.php:43
+msgid "Tools"
+msgstr "أدوات"
+
+#: wp-includes/widgets/class-wp-widget-search.php:31
+msgctxt "Search widget"
+msgid "Search"
+msgstr "بحث"
+
+#. translators: %s: wpdb::prepare()
+#: wp-includes/wp-db.php:1407
+msgid "The query argument of %s must have a placeholder."
+msgstr "معامل الإستعلام للدالة %s يجب أن يحتوي على عنصر نائب."
+
+#: wp-includes/user.php:2795
+msgid "Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ &amp; )."
+msgstr "تلميح: يفضّل أن تتكوّن كلمة المرور من 12 رمز على الأقل. لجعلها أقوى، استخدم الحروف الكبيرة والصغيرة، الأرقام والرموز مثل ! \" ? $ % ^ &amp; )."
+
+#. translators: 1: Browser cookie documentation URL, 2: Support forums URL.
+#: wp-login.php:1229
+msgid "<strong>Error</strong>: Cookies are blocked due to unexpected output. For help, please see <a href=\"%1$s\">this documentation</a> or try the <a href=\"%2$s\">support forums</a>."
+msgstr "<strong>خطأ</strong>: ملفات الكوكيز محظورة لسبب ما غير متوقّع . للحصول على مساعدة، يرجى الاطلاّع على <a href=\"%1$s\">هذه الوثيقة</a> أو اللجوء إلى <a href=\"%2$s\">منتديات الدعم</a>."
+
+#. translators: %s: Browser cookie documentation URL.
+#: wp-login.php:1240
+msgid "<strong>Error</strong>: Cookies are blocked or not supported by your browser. You must <a href=\"%s\">enable cookies</a> to use WordPress."
+msgstr "<strong>خطأ</strong>: ملفات الكوكيز محظورة أو غير مدعومة من قبل متصفحك. يجب عليك <a href=\"%s\">تفعيل الكوكيز</a> لاستخدام ووردبريس."
+
+#: wp-includes/update.php:171 wp-includes/update.php:409
+#: wp-includes/update.php:689 wp-admin/includes/plugin-install.php:182
+#: wp-admin/includes/theme.php:566 wp-admin/includes/translation-install.php:67
+#: wp-admin/includes/update.php:142
+msgid "(WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
+msgstr "(تعذّر على ووردبريس تأسيس اتصال آمن مع WordPress.org. يرجى الاتصال بمسؤول الخادم الخاص بك.)"
+
+#. translators: %s: Taxonomy label, %l: List of terms formatted as per
+#. $term_template.
+#: wp-includes/taxonomy.php:4683
+msgid "%s: %l."
+msgstr "%s: %l."
+
+#: wp-login.php:1346
+msgid "<strong>You have successfully updated WordPress!</strong> Please log back in to see what&#8217;s new."
+msgstr "<strong>لقد تم تحديث ووردبريس بنجاح!</strong> يرجى تسجيل الدخول مرة أخرى لترى ما الجديد."
+
+#: wp-includes/script-loader.php:1860
+#: wp-includes/js/dist/block-library.js:32689
+#: wp-includes/js/dist/components.js:67109
+msgid "Previous"
+msgstr "السابق"
+
+#: wp-includes/taxonomy.php:2477
+msgid "A term with the name provided already exists in this taxonomy."
+msgstr "هناك عنصر بنفس الاسم والاسم اللطيف موجود مسبقًا في هذه الفئة."
+
+#: wp-includes/theme.php:2621
+msgid "You need to pass an array of types."
+msgstr "تحتاج إلى تمرير مصفوفة أنواع."
+
+#. translators: %s: Database access abstraction class, usually wpdb or a class
+#. extending wpdb.
+#: wp-includes/wp-db.php:1269
+msgid "%s must set a database connection for use with escaping."
+msgstr "%s يجب أن يعين إتصالاً مع قاعدة بيانات للاستخدام مع دوال التهريب."
+
+#. translators: 1: title-tag, 2: wp_loaded
+#: wp-includes/theme.php:2808
+msgid "Theme support for %1$s should be registered before the %2$s hook."
+msgstr "ينبغي أن يُسجل دعم القالب لـ %1$s قبل خُطاف %2$s."
+
+#: wp-includes/script-loader.php:1222
+msgid "Site Preview"
+msgstr "معاينة الموقع"
+
+#: wp-includes/taxonomy.php:488 wp-includes/taxonomy.php:489
+msgid "Taxonomy names must be between 1 and 32 characters in length."
+msgstr "أسماء الفئة يجب أن يكون طولها بين 1 و 32 حرفًا."
+
+#: wp-includes/taxonomy.php:4166
+msgid "Could not split shared term."
+msgstr "غير قادر على تقسيم الفئة المشتركة."
+
+#: wp-includes/theme.php:3617
+msgid "Customizer"
+msgstr "مخصّص"
+
+#. translators: 1: The 'id' argument, 2: Sidebar name, 3: Recommended 'id'
+#. value.
+#: wp-includes/widgets.php:297
+msgid "No %1$s was set in the arguments array for the \"%2$s\" sidebar. Defaulting to \"%3$s\". Manually set the %1$s to \"%3$s\" to silence this notice and keep existing sidebar content."
+msgstr "لم يتم تعيين %1$s في مجموعة المتغيرات التابعة للشريط الجانبي \"%2$s\". تمّ التعيين افتراضيًا لـ \"%3$s\". قم يدويًا بتعيين %1$s إلى \"%3$s\" لإسكات هذا الإشعار والحفاظ على محتوى القائمة الجانبية."
+
+#: wp-includes/widgets/class-wp-widget-custom-html.php:271
+#: wp-includes/widgets/class-wp-widget-text.php:503
+#: wp-includes/widgets/class-wp-widget-text.php:564
+msgid "Content:"
+msgstr "المحتوى"
+
+#: wp-includes/script-loader.php:708
+msgid "Close bold tag"
+msgstr "إغلاق وسم النص العريض"
+
+#: wp-includes/script-loader.php:710
+msgid "Close italic tag"
+msgstr "إغلاق وسم النص المائل"
+
+#: wp-includes/script-loader.php:713
+msgid "Close blockquote tag"
+msgstr "إغلاق وسم الإفتباس"
+
+#: wp-includes/script-loader.php:714
+msgid "Deleted text (strikethrough)"
+msgstr "نص محذوف (يتوسطه خط)"
+
+#: wp-includes/script-loader.php:715
+msgid "Close deleted text tag"
+msgstr "إغلاق وسم النص المحذوف"
+
+#: wp-includes/script-loader.php:716
+msgid "Inserted text"
+msgstr "نص مدرج"
+
+#: wp-includes/script-loader.php:717
+msgid "Close inserted text tag"
+msgstr "إغلاق وسم النص المدرج"
+
+#: wp-includes/script-loader.php:720
+msgid "Close bulleted list tag"
+msgstr "إغلاق وسم القائمة النقطية"
+
+#: wp-includes/script-loader.php:722
+msgid "Close numbered list tag"
+msgstr "إغلاق وسم القائمة المرقّمة"
+
+#: wp-includes/script-loader.php:723
+msgid "List item"
+msgstr "عنصر القائمة"
+
+#: wp-includes/script-loader.php:724
+msgid "Close list item tag"
+msgstr "إغلاق وسم عنصر القائمة"
+
+#: wp-includes/script-loader.php:726
+msgid "Close code tag"
+msgstr "إغلاق وسم الشفرة"
+
+#. translators: %s: Shortcode tag.
+#: wp-includes/shortcodes.php:330
+msgid "Attempting to parse a shortcode without a valid callback: %s"
+msgstr "محاولة تحليل كود قصير دون رد نداء صحيح: %s"
+
+#. translators: Do not translate USERNAME, ADMIN_EMAIL, EMAIL, SITENAME,
+#. SITEURL: those are placeholders.
+#: wp-includes/user.php:2556
+msgid ""
+"Hi ###USERNAME###,\n"
+"\n"
+"This notice confirms that your password was changed on ###SITENAME###.\n"
+"\n"
+"If you did not change your password, please contact the Site Administrator at\n"
+"###ADMIN_EMAIL###\n"
+"\n"
+"This email has been sent to ###EMAIL###\n"
+"\n"
+"Regards,\n"
+"All at ###SITENAME###\n"
+"###SITEURL###"
+msgstr ""
+"مرحبًا ###USERNAME###،\n"
+"\n"
+"\n"
+"هذا الإشعار يؤكد بأن كلمة مرورك تم تغييرها على ###SITENAME###.\n"
+"\n"
+"إذا لم تقم بتغيير كلمة مرورك، يرجى الاتصال بمدير الموقع على\n"
+"###ADMIN_EMAIL###\n"
+"\n"
+"تم إرسال هذا البريد الإلكتروني لـ ###EMAIL###\n"
+"\n"
+"مع التحيّة،\n"
+"###SITENAME###\n"
+"###SITEURL###"
+
+#. translators: Do not translate USERNAME, ADMIN_EMAIL, NEW_EMAIL, EMAIL,
+#. SITENAME, SITEURL: those are placeholders.
+#: wp-includes/user.php:2614
+msgid ""
+"Hi ###USERNAME###,\n"
+"\n"
+"This notice confirms that your email address on ###SITENAME### was changed to ###NEW_EMAIL###.\n"
+"\n"
+"If you did not change your email, please contact the Site Administrator at\n"
+"###ADMIN_EMAIL###\n"
+"\n"
+"This email has been sent to ###EMAIL###\n"
+"\n"
+"Regards,\n"
+"All at ###SITENAME###\n"
+"###SITEURL###"
+msgstr ""
+"مرحبًا ###USERNAME###،\n"
+"\n"
+"يؤكد لك هذا الإشعار أن بريدك الإلكتروني على ###SITENAME### تمّ تغييره إلى ###NEW_EMAIL###.\n"
+"\n"
+"إذا لم تقم أنت بتغيير عنوان البريد الإلكتروني، يرجى الاتصال بمدير الموقع على\n"
+"###ADMIN_EMAIL###\n"
+"\n"
+"تم إرسال هذا البريد الإلكتروني لـ ###EMAIL###\n"
+"\n"
+"مع التحيّة،\n"
+"###SITENAME###\n"
+"###SITEURL###"
+
+#: wp-includes/wp-db.php:1593 wp-includes/wp-db.php:1610
+msgid "WordPress database error:"
+msgstr "خطأ فى قاعدة بيانات ووردبريس:"
+
+#: wp-includes/script-loader.php:1130
+msgctxt "password strength"
+msgid "Very weak"
+msgstr "ضعيفة جدًا"
+
+#: wp-includes/script-loader.php:1131
+msgctxt "password strength"
+msgid "Weak"
+msgstr "ضعيفة"
+
+#: wp-includes/script-loader.php:1133
+msgctxt "password strength"
+msgid "Strong"
+msgstr "قوية"
+
+#: wp-includes/script-loader.php:1134
+msgctxt "password mismatch"
+msgid "Mismatch"
+msgstr "غير متطابقة"
+
+#: wp-login.php:1093
+msgid "Registration confirmation will be emailed to you."
+msgstr "تأكيد التسجيل سيتم إرساله إلى بريدك الإلكترونى."
+
+#: wp-login.php:1410 wp-admin/js/user-profile.js:81
+msgid "Show password"
+msgstr "عرض كلمة المرور"
+
+#: wp-login.php:959 wp-admin/install.php:144 wp-admin/user-edit.php:643
+#: wp-admin/user-new.php:576 wp-admin/js/user-profile.js:81
+msgid "Hide password"
+msgstr "إخفاء كلمة المرور"
+
+#: wp-includes/shortcodes.php:69
+msgid "Invalid shortcode name: Empty name given."
+msgstr "اسم الكود القصير غير صالح: المُعطى اسم فارغ."
+
+#. translators: 1: Shortcode name, 2: Space-separated list of reserved
+#. characters.
+#: wp-includes/shortcodes.php:80
+msgid "Invalid shortcode name: %1$s. Do not use spaces or reserved characters: %2$s"
+msgstr "اسم الكود القصير الغير صالح: %1$s. لا تستخدم فراغات أو أحرف محجوزة: %2$s"
+
+#. translators: %s: User name.
+#: wp-includes/user.php:179
+msgid "<strong>Error</strong>: The password you entered for the username %s is incorrect."
+msgstr "<strong>خطأ</strong>: كلمة المرور التي أدخلتها للمستخدم %s غير صحيحة."
+
+#: wp-includes/user.php:2128
+msgid "Nicename may not be longer than 50 characters."
+msgstr "الاسم اللطيف لا يجوز أن يحتوي على أكثر من 50 حرفًا."
+
+#: wp-includes/widgets/class-wp-widget-tag-cloud.php:165
+msgid "The tag cloud will not be displayed since there are no taxonomies that support the tag cloud widget."
+msgstr "سحابة الوسوم لن يتم عرضها حين لا توجد فئات تدعم ودجت سحابة الوسوم."
+
+#: wp-includes/wp-db.php:1194
+msgid "Are you sure it exists?"
+msgstr "هل أنت متأكد أنها موجودة؟"
+
+#. translators: 1: Database user, 2: Database name.
+#: wp-includes/wp-db.php:1198
+msgid "Does the user %1$s have permission to use the %2$s database?"
+msgstr "هل المستخدم %1$s لديه صلاحية استخدام قاعدة البيانات %2$s؟"
+
+#. translators: %s: Database name.
+#: wp-includes/wp-db.php:1205
+msgid "On some systems the name of your database is prefixed with your username, so it would be like <code>username_%1$s</code>. Could that be the problem?"
+msgstr "على بعض الأنظمة اسم قاعدة البيانات يبدأ باسم المستخدم الخاص بك،  لذلك قد يبدو الاسم مثل <code>username_%1$s</code>. هل يمكن أن تكون هذه هي المشكلة؟"
+
+#. translators: %s: Support forums URL.
+#: wp-includes/wp-db.php:1213
+msgid "If you do not know how to set up a database you should <strong>contact your host</strong>. If all else fails you may find help at the <a href=\"%s\">WordPress Support Forums</a>."
+msgstr "إذا كنت لا تعرف كيف تنشئ قاعدة بيانات فعليك <strong>مُراسلة مُضيفك</strong>. إذا فشلت كل محاولاتك فابحث عن مساعدة في <a href=\"%s\">منتديات ووردبريس للدعم الفني</a>."
+
+#. translators: 1: wp-config.php, 2: Database host.
+#: wp-includes/wp-db.php:1805
+msgid "This either means that the username and password information in your %1$s file is incorrect or that contact with the database server at %2$s could not be established. This could mean your host&#8217;s database server is down."
+msgstr "إما أن يعني هذا أن اسم المستخدم وكلمة المرور الموجودان في ملف %1$s غير صحيحين أو أننا لا نستطيع الإتصال بخادم قاعدة البيانات على %2$s. وهذا قد يعني أن الخادم المُضيف لقاعدة البيانات متوقف."
+
+#: wp-includes/wp-db.php:1811
+msgid "Are you sure you have the correct username and password?"
+msgstr "هل أنت متأكد أنك تملك اسم المستخدم وكلمة المرور الصحيحين؟"
+
+#: wp-includes/wp-db.php:1812
+msgid "Are you sure you have typed the correct hostname?"
+msgstr "هل أنت متأكد بأنك كتبت اسم المُضيف الصحيح؟"
+
+#: wp-includes/wp-db.php:1813 wp-includes/wp-db.php:1976
+msgid "Are you sure the database server is running?"
+msgstr "هل أنت متأكد أن خادم قاعدة البيانات قيد التشغيل؟"
+
+#. translators: %s: Support forums URL.
+#: wp-includes/wp-db.php:1818 wp-includes/wp-db.php:1982
+msgid "If you are unsure what these terms mean you should probably contact your host. If you still need help you can always visit the <a href=\"%s\">WordPress Support Forums</a>."
+msgstr "إن لم تكن متأكدًا من ما تعنيه هذه المصطلحات فلربما عليك مراسلة المُضيف، إذا احتجت لأي مساعدة يمكنك دائمًا زيارة <a href=\"%s\">منتديات ووردبريس للدعم الفني</a>."
+
+#: wp-includes/wp-db.php:1967
+msgid "Error reconnecting to the database"
+msgstr "خطأ في إعادة الإتصال بقاعدة البيانات"
+
+#. translators: %s: Database host.
+#: wp-includes/wp-db.php:1971
+msgid "This means that the contact with the database server at %s was lost. This could mean your host&#8217;s database server is down."
+msgstr "هذا يعني أننا قد فقدنا الإتصال بخادم قاعدة البيانات على %s. وهذا قد يعني أن الخادم المُضيف لقاعدة البيانات قد تعطّل."
+
+#: wp-includes/wp-db.php:1977
+msgid "Are you sure the database server is not under particularly heavy load?"
+msgstr "هل أنت متأكد أن خادم قاعدة البيانات ليس تحت ضغط ثقيل؟"
+
+#: wp-mail.php:248 wp-admin/includes/plugin-install.php:654
+msgid "Author:"
+msgstr "الكاتب:"
+
+#: wp-mail.php:249
+msgid "Posted title:"
+msgstr "العنوان المُرسَل:"
+
+#. translators: %s: The message ID.
+#: wp-mail.php:262
+msgid "Mission complete. Message %s deleted."
+msgstr "المُهمة اكتملت. تم حذف الرسالة %s."
+
+#: wp-signup.php:162
+msgid "Site Language:"
+msgstr "لغة الموقع:"
+
+#: wp-includes/theme-compat/embed-404.php:14
+msgid "Oops! That embed cannot be found."
+msgstr "عفوًا، هذا التضمين لا يمكن إيجاده."
+
+#. translators: %s: A link to the embedded site.
+#: wp-includes/theme-compat/embed-404.php:21
+msgid "It looks like nothing was found at this location. Maybe try visiting %s directly?"
+msgstr "يبدو أنه لم يتم العثور على شيء في هذا الموقع. لما لا تجرّب زيارة %s مباشرة؟"
+
+#. translators: %s: Site address.
+#: wp-signup.php:1000
+msgid "The site you were looking for, %s, does not exist."
+msgstr "الموقع الذي كنت تبحث عنه، %s، غير موجود."
+
+#. translators: %s: Email address.
+#: wp-signup.php:681 wp-signup.php:839
+msgid "Check your inbox at %s and click the link given."
+msgstr "تفقّد بريدك الوارد على %s ثم انقر على الرابط المعطى."
+
+#. translators: 1: Site link, 2: Archive date.
+#: wp-includes/theme-compat/sidebar.php:57
+msgid "You are currently browsing the %1$s blog archives for the day %2$s."
+msgstr "أنت حاليًا تتصفح آرشيفات مدونة %1$s ليوم %2$s."
+
+#. translators: 1: Site link, 2: Archive month.
+#: wp-includes/theme-compat/sidebar.php:69
+msgid "You are currently browsing the %1$s blog archives for %2$s."
+msgstr "أنت حاليًا تتصفح آرشيفات مدونة %1$s لشهر %2$s."
+
+#. translators: 1: Site link, 2: Archive year.
+#: wp-includes/theme-compat/sidebar.php:81
+msgid "You are currently browsing the %1$s blog archives for the year %2$s."
+msgstr "أنت حاليا تتصفح آرشيفات مدونة %1$s لسنة %2$s."
+
+#. translators: %s: Site link.
+#: wp-includes/theme-compat/sidebar.php:105
+msgid "You are currently browsing the %s blog archives."
+msgstr "أنت حاليًا تتصفح آرشيفات مدونة %s."
+
+#: wp-includes/taxonomy.php:1352 wp-includes/taxonomy.php:1416
+msgid "Term meta cannot be added to terms that are shared between taxonomies."
+msgstr "لا يمكن إضافة ميتا للعناصر المُشتركة بين عدة فئات."
+
+#. translators: %s: wp-config.php
+#: wp-load.php:90
+msgid "There doesn't seem to be a %s file. I need this before we can get started."
+msgstr "لا يبدو أن ملف %s موجود. أحتاج إليه لكي نستطيع البدء."
+
+#: wp-includes/user.php:3300 wp-admin/includes/user.php:196
+msgid "<strong>Error</strong>: Sorry, that username is not allowed."
+msgstr "<strong>خطأ</strong>: عذرًا، اسم المُستخدم هذا غير مسموح به."
+
+#: wp-includes/script-loader.php:1226 wp-includes/js/dist/block-library.js:5261
+#: wp-includes/js/dist/editor.js:9627
+msgid "(Untitled)"
+msgstr "(بدون عنوان)"
+
+#: wp-includes/taxonomy.php:575
+msgid "Unregistering a built-in taxonomy is not allowed."
+msgstr "إلغاء تسجيل فئة مدمجة غير مسموح."
+
+#: wp-includes/user.php:216
+msgid "<strong>Error</strong>: The email field is empty."
+msgstr "<strong>خطأ</strong>: حقل البريد الالكتروني فارغ."
+
+#. translators: %s: Email address.
+#: wp-includes/user.php:251
+msgid "<strong>Error</strong>: The password you entered for the email address %s is incorrect."
+msgstr "<strong>خطأ</strong>: كلمة المرور التي أدخلتها للبريد الالكتروني %s غير صحيحة."
+
+#. translators: 1: User's display name, 2: User login.
+#: wp-includes/user.php:1682
+msgctxt "user dropdown"
+msgid "%1$s (%2$s)"
+msgstr "%1$s (%2$s)"
+
+#: wp-login.php:1337
+msgid "Your session has expired. Please log in to continue where you left off."
+msgstr "انتهت جلسة العمل الخاصة بك. الرجاء تسجيل الدخول للاستمرار من المكان الذي غادرته."
+
+#. translators: Number of results found when using jQuery UI Autocomplete.
+#: wp-includes/script-loader.php:865
+msgid "1 result found. Use up and down arrow keys to navigate."
+msgstr "نتيجة واحدة تم العثور عليها، استخدم مفاتيح الأسهم للأعلى والأسفل للتصفح."
+
+#. translators: %d: Number of results found when using jQuery UI Autocomplete.
+#: wp-includes/script-loader.php:867
+msgid "%d results found. Use up and down arrow keys to navigate."
+msgstr "%d نتيجة تم العثور عليها، استخدم مفاتيح الأسهم للأعلى والأسفل للتصفح."
+
+#: wp-includes/script-loader.php:1173 wp-includes/js/dist/block-editor.js:43300
+msgid "Link selected."
+msgstr "تم تحديد الرابط."
+
+#: wp-includes/script-loader.php:1174 wp-includes/js/dist/format-library.js:898
+msgid "Link inserted."
+msgstr "تم إدراج الرابط."
+
+#: wp-includes/revision.php:667
+msgid "Sorry, you are not allowed to preview drafts."
+msgstr "عذرًا، غير مسموح لك معاينة المسودات."
+
+#: wp-includes/script-loader.php:1129
+msgctxt "password strength"
+msgid "Password strength unknown"
+msgstr "قوة كلمة المرور غير معروفة"
+
+#: wp-login.php:966 wp-admin/install.php:171 wp-admin/user-edit.php:671
+#: wp-admin/user-new.php:596 wp-admin/js/user-profile.js:52
+msgid "Confirm use of weak password"
+msgstr "تأكيد استخدام كلمة مرور ضعيفة"
+
+#: wp-includes/script-loader.php:1856 wp-admin/includes/dashboard.php:1002
+msgid "Today"
+msgstr "اليوم"
+
+#: wp-includes/wp-db.php:2094 wp-includes/wp-db.php:2100
+msgid "Unable to retrieve the error message from MySQL"
+msgstr "غير قادر على استرداد رسالة الخطأ من MySQL"
+
+#. translators: %s: Site title.
+#: wp-login.php:292
+msgctxt "site"
+msgid "&larr; Go to %s"
+msgstr "&rarr; الانتقال إلى %s"
+
+#: wp-includes/taxonomy.php:2364 wp-includes/taxonomy.php:3155
+msgid "A name is required for this term."
+msgstr "الاسم مطلوب لهذا العنصر."
+
+#: wp-includes/script-loader.php:1006 wp-includes/theme.php:1630
+msgid "Play"
+msgstr "تشغيل"
+
+#: wp-includes/script-loader.php:1007 wp-includes/theme.php:1629
+msgid "Pause"
+msgstr "إيقاف مؤقت"
+
+#: wp-includes/script-loader.php:1008
+msgid "Time Slider"
+msgstr "شريط تمرير الوقت"
+
+#: wp-includes/script-loader.php:1015
+msgid "Video Player"
+msgstr "مشغل الفيديو"
+
+#: wp-includes/script-loader.php:1016
+msgid "Audio Player"
+msgstr "مشغل الصوت"
+
+#: wp-includes/script-loader.php:1014
+msgid "Volume Slider"
+msgstr "شريط تمرير مستوى الصوت"
+
+#: wp-includes/script-loader.php:1011
+msgid "Use Up/Down Arrow keys to increase or decrease volume."
+msgstr "استخدم مفاتيح الأسهم أعلى/أسفل لزيادة أو خفض مستوى الصوت."
+
+#: wp-includes/script-loader.php:1009
+msgid "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
+msgstr "استخدم مفاتيح الأسهم يسار/يمين للتقدم ثانية واحدة، أسهم أعلى/أسفل للتقدم عشر ثواني."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:124
+#: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:412
+msgid "Sorry, you are not allowed to upload media on this site."
+msgstr "عذرًا، غير مسموح لك رفع ملفات وسائط على هذا الموقع."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:133
+msgid "Sorry, you are not allowed to
